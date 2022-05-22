@@ -1,0 +1,1214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" SchemaVersion="7">
+	<RootPaths>
+		<SourceFilesRoot>D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\_Wwise Projects\Three Way Tie\N Squared\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+	</RootPaths>
+	<Arguments />
+	<DialogueEvents />
+	<StreamedFiles />
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedEvents />
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles />
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+		<SoundBank Id="1661994096" Language="SFX">
+			<ShortName>SoundBank</ShortName>
+			<Path>SoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3864097025" Name="Pause_All" />
+				<Event Id="2039140947" Name="Play_DX_Announcer_Flamethrower" />
+				<Event Id="2182950567" Name="Play_DX_Announcer_GoGoGo" />
+				<Event Id="1728905642" Name="Play_DX_Announcer_Killed_PlayerOne" />
+				<Event Id="1305772428" Name="Play_DX_Announcer_Killed_PlayerTwo" />
+				<Event Id="2897518834" Name="Play_DX_Announcer_KillEverything" />
+				<Event Id="1967207054" Name="Play_DX_Announcer_KillingSpree" />
+				<Event Id="1083416265" Name="Play_DX_Announcer_LeadBaron" />
+				<Event Id="3151273779" Name="Play_DX_Announcer_LeadClaire" />
+				<Event Id="1503005329" Name="Play_DX_Announcer_Lightninggun" />
+				<Event Id="1216722717" Name="Play_DX_Announcer_PlayerTwoEntered" />
+				<Event Id="1417774391" Name="Play_DX_Announcer_Regroup" />
+				<Event Id="2024796177" Name="Play_DX_Announcer_RocketLauncher" />
+				<Event Id="3947236133" Name="Play_DX_Announcer_Shotgun" />
+				<Event Id="1330546596" Name="Play_DX_Announcer_SplitUp" />
+				<Event Id="849238761" Name="Play_DX_Announcer_TakenTheLead_PlayerOne" />
+				<Event Id="1269812071" Name="Play_DX_Announcer_TakenTheLead_PlayerTwo" />
+				<Event Id="2227803108" Name="Play_DX_Announcer_UltimateBaron" />
+				<Event Id="3888878368" Name="Play_DX_Announcer_UltimateClaire" />
+				<Event Id="3238750648" Name="Play_DX_Announcer_UltimateFire" />
+				<Event Id="1816475323" Name="Play_DX_Barron_FlamethrowerUlt" />
+				<Event Id="342625831" Name="Play_DX_Barron_Land" />
+				<Event Id="1355870269" Name="Play_DX_Barron_LightningGunUlt" />
+				<Event Id="1065365657" Name="Play_DX_Barron_Positive_Feedback" />
+				<Event Id="4123299965" Name="Play_DX_Barron_RocketLauncherUlt" />
+				<Event Id="1166049015" Name="Play_DX_Barron_ShotgunUlt" />
+				<Event Id="1202075466" Name="Play_DX_Claire_Death" />
+				<Event Id="87875935" Name="Play_DX_Claire_FlameThrowerUlt" />
+				<Event Id="2433597979" Name="Play_DX_Claire_Hit" />
+				<Event Id="1375266264" Name="Play_DX_Claire_Jump" />
+				<Event Id="2808006547" Name="Play_DX_Claire_Land" />
+				<Event Id="1864334089" Name="Play_DX_Claire_LightningGunUlt" />
+				<Event Id="2623488701" Name="Play_DX_Claire_Positive_Feedback" />
+				<Event Id="1418907401" Name="Play_DX_Claire_RocketLauncherUlt" />
+				<Event Id="1842680187" Name="Play_DX_Claire_ShotgunUlt" />
+				<Event Id="2137184427" Name="Play_FX_BarrelShot" />
+				<Event Id="647125368" Name="Play_FX_Barron_Death" />
+				<Event Id="3854475801" Name="Play_FX_Barron_Hit" />
+				<Event Id="4080969030" Name="Play_FX_Barron_Jump" />
+				<Event Id="1443235840" Name="Play_FX_Boss_CannonShot" />
+				<Event Id="1574970936" Name="Play_FX_Boss_Charge_LargeLaser" />
+				<Event Id="2236535292" Name="Play_FX_Boss_Charge_SmallLaser" />
+				<Event Id="1898574043" Name="Play_FX_Boss_Death" />
+				<Event Id="2805478185" Name="Play_FX_Boss_LargeLaser" />
+				<Event Id="559103713" Name="Play_FX_Boss_SmallLaser" />
+				<Event Id="2567088412" Name="Play_FX_Boss_Spawn_Loops" />
+				<Event Id="4152628445" Name="Play_FX_Bullet_Hit_Ground" />
+				<Event Id="349741893" Name="Play_FX_CrateBreak" />
+				<Event Id="1956092026" Name="Play_FX_Flamethrower_Loop" />
+				<Event Id="2991982888" Name="Play_FX_Flamethrower_Ultimate_Shot" />
+				<Event Id="3428035376" Name="Play_FX_Footsteps" />
+				<Event Id="470030351" Name="Play_FX_Gameplay_Ambience_Loop" />
+				<Event Id="2159384116" Name="Play_FX_Land" />
+				<Event Id="123743207" Name="Play_FX_LightningGun" />
+				<Event Id="2425670680" Name="Play_FX_LightningGun_Alternate" />
+				<Event Id="562868035" Name="Play_FX_LightningGun_Ult" />
+				<Event Id="661182036" Name="Play_FX_MachineGun" />
+				<Event Id="3391117313" Name="Play_FX_Menu_Ambience_Loops" />
+				<Event Id="45853129" Name="Play_FX_Menu_Down" />
+				<Event Id="227841718" Name="Play_FX_Menu_GoBack" />
+				<Event Id="1784519877" Name="Play_FX_Menu_Pause" />
+				<Event Id="1983869205" Name="Play_FX_Menu_Select" />
+				<Event Id="1145858318" Name="Play_FX_Menu_Up" />
+				<Event Id="3237461567" Name="Play_FX_Player_Dash" />
+				<Event Id="3617747844" Name="Play_FX_RocketLauncher_Alternate" />
+				<Event Id="2757980855" Name="Play_FX_Shotgun" />
+				<Event Id="169939719" Name="Play_FX_Shotgun_Alt" />
+				<Event Id="24462791" Name="Play_FX_Shotgun_Ultimate" />
+				<Event Id="2238234883" Name="Play_FX_Typing_Loop" />
+				<Event Id="3710163774" Name="Play_FX_Weapon_RocketLauncher_Ult" />
+				<Event Id="1960176681" Name="Play_FX_Weapons_RocketLauncher" />
+				<Event Id="4155369674" Name="Play_FX_Weapons_RocketLauncher_Explo" />
+				<Event Id="2757410987" Name="Play_FX_Weebos_Death" />
+				<Event Id="1933981971" Name="Play_FX_Weebos_Gunshot" />
+				<Event Id="2495216557" Name="Play_FX_Weebos_Helicopter_Loop" />
+				<Event Id="4129359177" Name="Play_FX_Weebos_Helicopter_Loop_01" />
+				<Event Id="1940436941" Name="Play_FX_Weebos_Hits" />
+				<Event Id="1375037483" Name="Play_FX_Weebos_Jump" />
+				<Event Id="2390653319" Name="Play_FX_Weebos_Noise" />
+				<Event Id="1604865015" Name="Play_MX_FanFare_Music" />
+				<Event Id="2832309102" Name="Play_MX_Level_Music" />
+				<Event Id="2592850773" Name="Play_MX_Menu_Music" />
+				<Event Id="3312220043" Name="Play_MX_N2_GameOver" />
+				<Event Id="3975385512" Name="Play_SFX_Flamethrower_Alt" />
+				<Event Id="2327180827" Name="Play_SFX_Pickup_Flamethrower" />
+				<Event Id="3592430441" Name="Play_SFX_Pickup_LightningGun" />
+				<Event Id="2829422278" Name="Play_SFX_Pickup_MachineGun" />
+				<Event Id="406563369" Name="Play_SFX_Pickup_RocketLauncher" />
+				<Event Id="2360340909" Name="Play_SFX_Pickup_ShotGun" />
+				<Event Id="3097558339" Name="Play_SFX_ScoreTicker_Loop" />
+				<Event Id="3679762312" Name="Resume_All" />
+				<Event Id="452547817" Name="Stop_All" />
+				<Event Id="1676809638" Name="Stop_FX_Boss_Spawn_Loops" />
+				<Event Id="2671510840" Name="Stop_FX_Flamethrower_Loop" />
+				<Event Id="3052605062" Name="Stop_FX_Flamethrower_Ultimate_Shot" />
+				<Event Id="2811548465" Name="Stop_FX_Gameplay_Ambience_Loop" />
+				<Event Id="3561728334" Name="Stop_FX_LightningGun_Alternate" />
+				<Event Id="1528739067" Name="Stop_FX_Menu_Ambience_Loops" />
+				<Event Id="3895427854" Name="Stop_FX_RocketLauncher_Alternate" />
+				<Event Id="2813762040" Name="Stop_FX_ScoreTicker_Loop" />
+				<Event Id="4098680805" Name="Stop_FX_Typing_Loop" />
+				<Event Id="4257938619" Name="Stop_FX_Weebos_Helicopter_Loop" />
+				<Event Id="2161780911" Name="Stop_FX_Weebos_Helicopter_Loop_01" />
+				<Event Id="2428751621" Name="Stop_MX_FanFare_Music" />
+				<Event Id="2352103008" Name="Stop_MX_Level_Music" />
+				<Event Id="1707012355" Name="Stop_MX_Menu_Music" />
+				<Event Id="175792121" Name="Stop_MX_N2_GameOver" />
+				<Event Id="2695084122" Name="Stop_SFX_Flamethrower_Alt" />
+			</IncludedEvents>
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles>
+				<File Id="550417071" Language="SFX">
+					<ShortName>Computer_Loop.wav</ShortName>
+					<Path>sfx\computer_loop_77d70296.ogg</Path>
+				</File>
+				<File Id="859514899" Language="SFX">
+					<ShortName>Creak_LargeMetalShip01.wav</ShortName>
+					<Path>sfx\creak_largemetalship01_77d70297.ogg</Path>
+				</File>
+				<File Id="558276042" Language="SFX">
+					<ShortName>Creak_LargeMetalShip02.wav</ShortName>
+					<Path>sfx\creak_largemetalship02_77d70297.ogg</Path>
+				</File>
+				<File Id="191663886" Language="SFX">
+					<ShortName>Creak_LargeMetalShip03.wav</ShortName>
+					<Path>sfx\creak_largemetalship03_77d70297.ogg</Path>
+				</File>
+				<File Id="836131919" Language="SFX">
+					<ShortName>Creak_LargeMetalShip04.wav</ShortName>
+					<Path>sfx\creak_largemetalship04_77d70297.ogg</Path>
+				</File>
+				<File Id="840757302" Language="SFX">
+					<ShortName>Creak_LargeMetalShip05.wav</ShortName>
+					<Path>sfx\creak_largemetalship05_77d70297.ogg</Path>
+				</File>
+				<File Id="622138303" Language="SFX">
+					<ShortName>Crow_Stinger.wav</ShortName>
+					<Path>sfx\crow_stinger_77d70297.ogg</Path>
+				</File>
+				<File Id="1036979264" Language="SFX">
+					<ShortName>DX_Announcer_FlameThrower_01.wav</ShortName>
+					<Path>sfx\dx_announcer_flamethrower_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="604138648" Language="SFX">
+					<ShortName>DX_Announcer_FlameThrower_02.wav</ShortName>
+					<Path>sfx\dx_announcer_flamethrower_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="918863094" Language="SFX">
+					<ShortName>DX_Announcer_GoGoGo_01.wav</ShortName>
+					<Path>sfx\dx_announcer_gogogo_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="694185640" Language="SFX">
+					<ShortName>DX_Announcer_Killed_PlayerOne.wav</ShortName>
+					<Path>sfx\dx_announcer_killed_playerone_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="555879585" Language="SFX">
+					<ShortName>DX_Announcer_Killed_PlayerTwo.wav</ShortName>
+					<Path>sfx\dx_announcer_killed_playertwo_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="922481240" Language="SFX">
+					<ShortName>DX_Announcer_KillingSpree.wav</ShortName>
+					<Path>sfx\dx_announcer_killingspree_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="838737948" Language="SFX">
+					<ShortName>DX_Announcer_LeadBaron.wav</ShortName>
+					<Path>sfx\dx_announcer_leadbaron_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="1021510554" Language="SFX">
+					<ShortName>DX_Announcer_LeadClaire.wav</ShortName>
+					<Path>sfx\dx_announcer_leadclaire_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="879389627" Language="SFX">
+					<ShortName>DX_Announcer_LightningGun_01.wav</ShortName>
+					<Path>sfx\dx_announcer_lightninggun_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="722152216" Language="SFX">
+					<ShortName>DX_Announcer_LightningGun_02.wav</ShortName>
+					<Path>sfx\dx_announcer_lightninggun_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="629663146" Language="SFX">
+					<ShortName>DX_Announcer_PlayerTwoEntered.wav</ShortName>
+					<Path>sfx\dx_announcer_playertwoentered_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="989307619" Language="SFX">
+					<ShortName>DX_Announcer_Regroup.wav</ShortName>
+					<Path>sfx\dx_announcer_regroup_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="846423997" Language="SFX">
+					<ShortName>DX_Announcer_RocketLauncher_01.wav</ShortName>
+					<Path>sfx\dx_announcer_rocketlauncher_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="1048560550" Language="SFX">
+					<ShortName>DX_Announcer_RocketLauncher_02.wav</ShortName>
+					<Path>sfx\dx_announcer_rocketlauncher_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="391220231" Language="SFX">
+					<ShortName>DX_Announcer_Shotgun_01.wav</ShortName>
+					<Path>sfx\dx_announcer_shotgun_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="957123853" Language="SFX">
+					<ShortName>DX_Announcer_SplitUp.wav</ShortName>
+					<Path>sfx\dx_announcer_splitup_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="837485912" Language="SFX">
+					<ShortName>DX_Announcer_TakenTheLead_PlayerOne.wav</ShortName>
+					<Path>sfx\dx_announcer_takenthelead_playerone_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="232448086" Language="SFX">
+					<ShortName>DX_Announcer_TakenTheLead_PlayerTwo.wav</ShortName>
+					<Path>sfx\dx_announcer_takenthelead_playertwo_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="20797850" Language="SFX">
+					<ShortName>DX_Announcer_UltimateBaron_01.wav</ShortName>
+					<Path>sfx\dx_announcer_ultimatebaron_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="412764166" Language="SFX">
+					<ShortName>DX_Announcer_UltimateClaire_01.wav</ShortName>
+					<Path>sfx\dx_announcer_ultimateclaire_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="656880821" Language="SFX">
+					<ShortName>DX_Announcer_UltimateFire_01.wav</ShortName>
+					<Path>sfx\dx_announcer_ultimatefire_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="930012621" Language="SFX">
+					<ShortName>DX_Announcer_WreckThemAll.wav</ShortName>
+					<Path>sfx\dx_announcer_wreckthemall_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="708393720" Language="SFX">
+					<ShortName>DX_Baron_BitsFly_01.wav</ShortName>
+					<Path>sfx\dx_baron_bitsfly_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="845310815" Language="SFX">
+					<ShortName>DX_Baron_CantStop_01.wav</ShortName>
+					<Path>sfx\dx_baron_cantstop_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="1001236153" Language="SFX">
+					<ShortName>DX_Baron_Death_01.wav</ShortName>
+					<Path>sfx\dx_baron_death_01_77d70297.ogg</Path>
+				</File>
+				<File Id="57804701" Language="SFX">
+					<ShortName>DX_Baron_Death_02.wav</ShortName>
+					<Path>sfx\dx_baron_death_02_77d70297.ogg</Path>
+				</File>
+				<File Id="103071090" Language="SFX">
+					<ShortName>DX_Baron_Death_03.wav</ShortName>
+					<Path>sfx\dx_baron_death_03_77d70297.ogg</Path>
+				</File>
+				<File Id="704697778" Language="SFX">
+					<ShortName>DX_Baron_HahaYeah_01.wav</ShortName>
+					<Path>sfx\dx_baron_hahayeah_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="868308504" Language="SFX">
+					<ShortName>DX_Baron_Hit_01.wav</ShortName>
+					<Path>sfx\dx_baron_hit_01_77d70297.ogg</Path>
+				</File>
+				<File Id="970411537" Language="SFX">
+					<ShortName>DX_Baron_Hit_02.wav</ShortName>
+					<Path>sfx\dx_baron_hit_02_77d70297.ogg</Path>
+				</File>
+				<File Id="526883681" Language="SFX">
+					<ShortName>DX_Baron_Hit_03.wav</ShortName>
+					<Path>sfx\dx_baron_hit_03_77d70297.ogg</Path>
+				</File>
+				<File Id="299195624" Language="SFX">
+					<ShortName>DX_Baron_Hit_04.wav</ShortName>
+					<Path>sfx\dx_baron_hit_04_77d70297.ogg</Path>
+				</File>
+				<File Id="828013210" Language="SFX">
+					<ShortName>DX_Baron_ImAwesome_01.wav</ShortName>
+					<Path>sfx\dx_baron_imawesome_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="671242173" Language="SFX">
+					<ShortName>DX_Baron_ImAwesome_02.wav</ShortName>
+					<Path>sfx\dx_baron_imawesome_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="231070701" Language="SFX">
+					<ShortName>DX_Baron_LoveExplosions_01.wav</ShortName>
+					<Path>sfx\dx_baron_loveexplosions_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="198926986" Language="SFX">
+					<ShortName>DX_Baron_OhYeah_01.wav</ShortName>
+					<Path>sfx\dx_baron_ohyeah_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="433592782" Language="SFX">
+					<ShortName>DX_Baron_SmashBashBlamo_01.wav</ShortName>
+					<Path>sfx\dx_baron_smashbashblamo_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="571112691" Language="SFX">
+					<ShortName>DX_Barron_FlamethrowerUlt_01.wav</ShortName>
+					<Path>sfx\dx_barron_flamethrowerult_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="123724836" Language="SFX">
+					<ShortName>DX_Barron_FlamethrowerUlt_02.wav</ShortName>
+					<Path>sfx\dx_barron_flamethrowerult_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="874306978" Language="SFX">
+					<ShortName>DX_Barron_Jump_01.wav</ShortName>
+					<Path>sfx\dx_barron_jump_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="226677010" Language="SFX">
+					<ShortName>DX_Barron_Jump_02.wav</ShortName>
+					<Path>sfx\dx_barron_jump_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="550148138" Language="SFX">
+					<ShortName>DX_Barron_Jump_03.wav</ShortName>
+					<Path>sfx\dx_barron_jump_03_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="523046414" Language="SFX">
+					<ShortName>DX_Barron_Jump_04.wav</ShortName>
+					<Path>sfx\dx_barron_jump_04_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="515320167" Language="SFX">
+					<ShortName>DX_Barron_Jump_05.wav</ShortName>
+					<Path>sfx\dx_barron_jump_05_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="591157461" Language="SFX">
+					<ShortName>DX_Barron_Land_01.wav</ShortName>
+					<Path>sfx\dx_barron_land_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="146626178" Language="SFX">
+					<ShortName>DX_Barron_Land_02.wav</ShortName>
+					<Path>sfx\dx_barron_land_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="803395194" Language="SFX">
+					<ShortName>DX_Barron_Land_03.wav</ShortName>
+					<Path>sfx\dx_barron_land_03_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="69862370" Language="SFX">
+					<ShortName>DX_Barron_Land_04.wav</ShortName>
+					<Path>sfx\dx_barron_land_04_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="876730247" Language="SFX">
+					<ShortName>DX_Barron_Land_05.wav</ShortName>
+					<Path>sfx\dx_barron_land_05_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="635757348" Language="SFX">
+					<ShortName>DX_Barron_Land_06.wav</ShortName>
+					<Path>sfx\dx_barron_land_06_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="282053094" Language="SFX">
+					<ShortName>DX_Barron_Land_07.wav</ShortName>
+					<Path>sfx\dx_barron_land_07_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="868222178" Language="SFX">
+					<ShortName>DX_Barron_LightningGunUlt_01.wav</ShortName>
+					<Path>sfx\dx_barron_lightninggunult_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="198714968" Language="SFX">
+					<ShortName>DX_Barron_LightningGunUlt_02.wav</ShortName>
+					<Path>sfx\dx_barron_lightninggunult_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="387617567" Language="SFX">
+					<ShortName>DX_Barron_RocketLauncherUlt_01.wav</ShortName>
+					<Path>sfx\dx_barron_rocketlauncherult_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="434516831" Language="SFX">
+					<ShortName>DX_Barron_RocketLauncherUlt_02.wav</ShortName>
+					<Path>sfx\dx_barron_rocketlauncherult_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="281746056" Language="SFX">
+					<ShortName>DX_Barron_ShotgunUlt_01.wav</ShortName>
+					<Path>sfx\dx_barron_shotgunult_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="535610190" Language="SFX">
+					<ShortName>DX_Barron_ShotgunUlt_02.wav</ShortName>
+					<Path>sfx\dx_barron_shotgunult_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="1047594179" Language="SFX">
+					<ShortName>DX_Claire_Death_01.wav</ShortName>
+					<Path>sfx\dx_claire_death_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="908439968" Language="SFX">
+					<ShortName>DX_Claire_Death_02.wav</ShortName>
+					<Path>sfx\dx_claire_death_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="1013167237" Language="SFX">
+					<ShortName>DX_Claire_Death_03.wav</ShortName>
+					<Path>sfx\dx_claire_death_03_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="916681809" Language="SFX">
+					<ShortName>DX_Claire_FlameThrowerUlt.wav</ShortName>
+					<Path>sfx\dx_claire_flamethrowerult_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="623333213" Language="SFX">
+					<ShortName>DX_Claire_Hurt_01.wav</ShortName>
+					<Path>sfx\dx_claire_hurt_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="500738198" Language="SFX">
+					<ShortName>DX_Claire_Hurt_02.wav</ShortName>
+					<Path>sfx\dx_claire_hurt_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="790990634" Language="SFX">
+					<ShortName>DX_Claire_Hurt_03.wav</ShortName>
+					<Path>sfx\dx_claire_hurt_03_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="1051804410" Language="SFX">
+					<ShortName>DX_Claire_Hurt_04.wav</ShortName>
+					<Path>sfx\dx_claire_hurt_04_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="335376796" Language="SFX">
+					<ShortName>DX_Claire_Hurt_05.wav</ShortName>
+					<Path>sfx\dx_claire_hurt_05_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="294762060" Language="SFX">
+					<ShortName>DX_Claire_Hurt_06.wav</ShortName>
+					<Path>sfx\dx_claire_hurt_06_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="1001591240" Language="SFX">
+					<ShortName>DX_Claire_Hurt_07.wav</ShortName>
+					<Path>sfx\dx_claire_hurt_07_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="112352701" Language="SFX">
+					<ShortName>DX_Claire_Jump_01.wav</ShortName>
+					<Path>sfx\dx_claire_jump_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="656122373" Language="SFX">
+					<ShortName>DX_Claire_Jump_02.wav</ShortName>
+					<Path>sfx\dx_claire_jump_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="712834405" Language="SFX">
+					<ShortName>DX_Claire_Jump_03.wav</ShortName>
+					<Path>sfx\dx_claire_jump_03_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="160227759" Language="SFX">
+					<ShortName>DX_Claire_Jump_04.wav</ShortName>
+					<Path>sfx\dx_claire_jump_04_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="326563119" Language="SFX">
+					<ShortName>DX_Claire_Jump_05.wav</ShortName>
+					<Path>sfx\dx_claire_jump_05_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="1070882527" Language="SFX">
+					<ShortName>DX_Claire_Jump_06.wav</ShortName>
+					<Path>sfx\dx_claire_jump_06_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="1007197816" Language="SFX">
+					<ShortName>DX_Claire_Jump_07.wav</ShortName>
+					<Path>sfx\dx_claire_jump_07_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="148380056" Language="SFX">
+					<ShortName>DX_Claire_Land_01.wav</ShortName>
+					<Path>sfx\dx_claire_land_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="745762829" Language="SFX">
+					<ShortName>DX_Claire_Land_02.wav</ShortName>
+					<Path>sfx\dx_claire_land_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="795438348" Language="SFX">
+					<ShortName>DX_Claire_Land_03.wav</ShortName>
+					<Path>sfx\dx_claire_land_03_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="693569808" Language="SFX">
+					<ShortName>DX_Claire_LightningGunUlt.wav</ShortName>
+					<Path>sfx\dx_claire_lightninggunult_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="811048703" Language="SFX">
+					<ShortName>DX_Claire_RocketLauncherUlt.wav</ShortName>
+					<Path>sfx\dx_claire_rocketlauncherult_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="1034500863" Language="SFX">
+					<ShortName>DX_Claire_ShotgunUlt.wav</ShortName>
+					<Path>sfx\dx_claire_shotgunult_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="282545002" Language="SFX">
+					<ShortName>DX_Claire_Taunt_01.wav</ShortName>
+					<Path>sfx\dx_claire_taunt_01_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="597702676" Language="SFX">
+					<ShortName>DX_Claire_Taunt_02.wav</ShortName>
+					<Path>sfx\dx_claire_taunt_02_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="248996533" Language="SFX">
+					<ShortName>DX_Claire_Taunt_03.wav</ShortName>
+					<Path>sfx\dx_claire_taunt_03_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="606101998" Language="SFX">
+					<ShortName>DX_Claire_Taunt_04.wav</ShortName>
+					<Path>sfx\dx_claire_taunt_04_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="145616787" Language="SFX">
+					<ShortName>DX_Claire_Taunt_05.wav</ShortName>
+					<Path>sfx\dx_claire_taunt_05_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="752192312" Language="SFX">
+					<ShortName>DX_Claire_Taunt_06.wav</ShortName>
+					<Path>sfx\dx_claire_taunt_06_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="949457202" Language="SFX">
+					<ShortName>DX_Claire_Taunt_07.wav</ShortName>
+					<Path>sfx\dx_claire_taunt_07_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="301659989" Language="SFX">
+					<ShortName>DX_Claire_Taunt_08.wav</ShortName>
+					<Path>sfx\dx_claire_taunt_08_77d70297_effe9e1.ogg</Path>
+				</File>
+				<File Id="785516397" Language="SFX">
+					<ShortName>Explo_Small_08.wav</ShortName>
+					<Path>sfx\explo_small_08_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="202619424" Language="SFX">
+					<ShortName>Explo_Small_09.wav</ShortName>
+					<Path>sfx\explo_small_09_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="533163447" Language="SFX">
+					<ShortName>Explo_Small_10.wav</ShortName>
+					<Path>sfx\explo_small_10_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="665844965" Language="SFX">
+					<ShortName>Explo_Small_11.wav</ShortName>
+					<Path>sfx\explo_small_11_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="960894736" Language="SFX">
+					<ShortName>FX_Ambience_CarAlarm_01.wav</ShortName>
+					<Path>sfx\fx_ambience_caralarm_01_77d70297.ogg</Path>
+				</File>
+				<File Id="85474299" Language="SFX">
+					<ShortName>FX_Ambience_CarHorn_01.wav</ShortName>
+					<Path>sfx\fx_ambience_carhorn_01_77d70297.ogg</Path>
+				</File>
+				<File Id="1004283198" Language="SFX">
+					<ShortName>FX_Ambience_CicadaLoop.wav</ShortName>
+					<Path>sfx\fx_ambience_cicadaloop_77d70296.ogg</Path>
+				</File>
+				<File Id="1055290845" Language="SFX">
+					<ShortName>FX_Ambience_City_01.wav</ShortName>
+					<Path>sfx\fx_ambience_city_01_77d70297.ogg</Path>
+				</File>
+				<File Id="769799654" Language="SFX">
+					<ShortName>FX_Ambience_City_02.wav</ShortName>
+					<Path>sfx\fx_ambience_city_02_77d70297.ogg</Path>
+				</File>
+				<File Id="591866472" Language="SFX">
+					<ShortName>FX_Ambience_City_03.wav</ShortName>
+					<Path>sfx\fx_ambience_city_03_77d70297.ogg</Path>
+				</File>
+				<File Id="817583919" Language="SFX">
+					<ShortName>FX_Ambience_City_04.wav</ShortName>
+					<Path>sfx\fx_ambience_city_04_77d70297.ogg</Path>
+				</File>
+				<File Id="823818171" Language="SFX">
+					<ShortName>FX_Ambience_Dove_01.wav</ShortName>
+					<Path>sfx\fx_ambience_dove_01_77d70297.ogg</Path>
+				</File>
+				<File Id="376151870" Language="SFX">
+					<ShortName>FX_Ambience_Dove_02.wav</ShortName>
+					<Path>sfx\fx_ambience_dove_02_77d70297.ogg</Path>
+				</File>
+				<File Id="861384817" Language="SFX">
+					<ShortName>FX_Ambience_Dove_03.wav</ShortName>
+					<Path>sfx\fx_ambience_dove_03_77d70297.ogg</Path>
+				</File>
+				<File Id="549404481" Language="SFX">
+					<ShortName>FX_Ambience_Gust.wav</ShortName>
+					<Path>sfx\fx_ambience_gust_77d70297.ogg</Path>
+				</File>
+				<File Id="614015571" Language="SFX">
+					<ShortName>FX_Ambience_Hawk.wav</ShortName>
+					<Path>sfx\fx_ambience_hawk_77d70297.ogg</Path>
+				</File>
+				<File Id="915490667" Language="SFX">
+					<ShortName>FX_Ambience_JungleLoop_01.wav</ShortName>
+					<Path>sfx\fx_ambience_jungleloop_01_77d70296.ogg</Path>
+				</File>
+				<File Id="628294171" Language="SFX">
+					<ShortName>FX_Ambience_JungleLoop_02.wav</ShortName>
+					<Path>sfx\fx_ambience_jungleloop_02_77d70296.ogg</Path>
+				</File>
+				<File Id="507606908" Language="SFX">
+					<ShortName>FX_Ambience_Leaves_01.wav</ShortName>
+					<Path>sfx\fx_ambience_leaves_01_77d70297.ogg</Path>
+				</File>
+				<File Id="132691798" Language="SFX">
+					<ShortName>FX_Ambience_Leaves_02.wav</ShortName>
+					<Path>sfx\fx_ambience_leaves_02_77d70297.ogg</Path>
+				</File>
+				<File Id="177954852" Language="SFX">
+					<ShortName>FX_Ambience_Leaves_03.wav</ShortName>
+					<Path>sfx\fx_ambience_leaves_03_77d70297.ogg</Path>
+				</File>
+				<File Id="791229527" Language="SFX">
+					<ShortName>FX_Ambience_Leaves_04.wav</ShortName>
+					<Path>sfx\fx_ambience_leaves_04_77d70297.ogg</Path>
+				</File>
+				<File Id="871568211" Language="SFX">
+					<ShortName>FX_Ambience_Leaves_05.wav</ShortName>
+					<Path>sfx\fx_ambience_leaves_05_77d70297.ogg</Path>
+				</File>
+				<File Id="556459370" Language="SFX">
+					<ShortName>FX_Ambience_Leaves_06.wav</ShortName>
+					<Path>sfx\fx_ambience_leaves_06_77d70297.ogg</Path>
+				</File>
+				<File Id="682317030" Language="SFX">
+					<ShortName>FX_Ambience_Leaves_07.wav</ShortName>
+					<Path>sfx\fx_ambience_leaves_07_77d70297.ogg</Path>
+				</File>
+				<File Id="587992133" Language="SFX">
+					<ShortName>FX_Ambience_OceanLoop.wav</ShortName>
+					<Path>sfx\fx_ambience_oceanloop_77d70296.ogg</Path>
+				</File>
+				<File Id="612082570" Language="SFX">
+					<ShortName>FX_Ambience_Parrot_01.wav</ShortName>
+					<Path>sfx\fx_ambience_parrot_01_77d70297.ogg</Path>
+				</File>
+				<File Id="658748522" Language="SFX">
+					<ShortName>FX_Ambience_Parrot_02.wav</ShortName>
+					<Path>sfx\fx_ambience_parrot_02_77d70297.ogg</Path>
+				</File>
+				<File Id="602720804" Language="SFX">
+					<ShortName>FX_Ambience_Parrot_03.wav</ShortName>
+					<Path>sfx\fx_ambience_parrot_03_77d70297.ogg</Path>
+				</File>
+				<File Id="334898036" Language="SFX">
+					<ShortName>FX_Ambience_RustleNewspaper_01.wav</ShortName>
+					<Path>sfx\fx_ambience_rustlenewspaper_01_77d70297.ogg</Path>
+				</File>
+				<File Id="1064777361" Language="SFX">
+					<ShortName>FX_Ambience_RustleNewspaper_02.wav</ShortName>
+					<Path>sfx\fx_ambience_rustlenewspaper_02_77d70297.ogg</Path>
+				</File>
+				<File Id="555032298" Language="SFX">
+					<ShortName>FX_Ambience_RustleNewspaper_03.wav</ShortName>
+					<Path>sfx\fx_ambience_rustlenewspaper_03_77d70297.ogg</Path>
+				</File>
+				<File Id="338033813" Language="SFX">
+					<ShortName>FX_Ambience_RustleNewspaper_04.wav</ShortName>
+					<Path>sfx\fx_ambience_rustlenewspaper_04_77d70297.ogg</Path>
+				</File>
+				<File Id="410394675" Language="SFX">
+					<ShortName>FX_Ambience_Seagull_01.wav</ShortName>
+					<Path>sfx\fx_ambience_seagull_01_77d70297.ogg</Path>
+				</File>
+				<File Id="973213816" Language="SFX">
+					<ShortName>FX_Ambience_Seagull_02.wav</ShortName>
+					<Path>sfx\fx_ambience_seagull_02_77d70297.ogg</Path>
+				</File>
+				<File Id="660180788" Language="SFX">
+					<ShortName>FX_Ambience_Seagull_03.wav</ShortName>
+					<Path>sfx\fx_ambience_seagull_03_77d70297.ogg</Path>
+				</File>
+				<File Id="947446773" Language="SFX">
+					<ShortName>FX_Ambience_Seagull_04.wav</ShortName>
+					<Path>sfx\fx_ambience_seagull_04_77d70297.ogg</Path>
+				</File>
+				<File Id="884814818" Language="SFX">
+					<ShortName>FX_Ambience_Seagull_05.wav</ShortName>
+					<Path>sfx\fx_ambience_seagull_05_77d70297.ogg</Path>
+				</File>
+				<File Id="890121186" Language="SFX">
+					<ShortName>FX_Ambience_Seagull_06.wav</ShortName>
+					<Path>sfx\fx_ambience_seagull_06_77d70297.ogg</Path>
+				</File>
+				<File Id="389820242" Language="SFX">
+					<ShortName>FX_Ambience_Seagull_07.wav</ShortName>
+					<Path>sfx\fx_ambience_seagull_07_77d70297.ogg</Path>
+				</File>
+				<File Id="229115415" Language="SFX">
+					<ShortName>FX_Ambience_Seagull_08.wav</ShortName>
+					<Path>sfx\fx_ambience_seagull_08_77d70297.ogg</Path>
+				</File>
+				<File Id="225339210" Language="SFX">
+					<ShortName>FX_Ambience_Seagull_09.wav</ShortName>
+					<Path>sfx\fx_ambience_seagull_09_77d70297.ogg</Path>
+				</File>
+				<File Id="405428904" Language="SFX">
+					<ShortName>FX_Ambience_Sparrow_01.wav</ShortName>
+					<Path>sfx\fx_ambience_sparrow_01_77d70297.ogg</Path>
+				</File>
+				<File Id="667290107" Language="SFX">
+					<ShortName>FX_Ambience_Wave_01.wav</ShortName>
+					<Path>sfx\fx_ambience_wave_01_77d70297.ogg</Path>
+				</File>
+				<File Id="583449288" Language="SFX">
+					<ShortName>FX_Ambience_Wave_02.wav</ShortName>
+					<Path>sfx\fx_ambience_wave_02_77d70297.ogg</Path>
+				</File>
+				<File Id="780895825" Language="SFX">
+					<ShortName>FX_Ambience_Wave_03.wav</ShortName>
+					<Path>sfx\fx_ambience_wave_03_77d70297.ogg</Path>
+				</File>
+				<File Id="793568129" Language="SFX">
+					<ShortName>FX_Ambience_Wave_04.wav</ShortName>
+					<Path>sfx\fx_ambience_wave_04_77d70297.ogg</Path>
+				</File>
+				<File Id="581460280" Language="SFX">
+					<ShortName>FX_Ambience_Wind_01.wav</ShortName>
+					<Path>sfx\fx_ambience_wind_01_77d70296.ogg</Path>
+				</File>
+				<File Id="1071026440" Language="SFX">
+					<ShortName>FX_Ambience_Wren_01.wav</ShortName>
+					<Path>sfx\fx_ambience_wren_01_77d70297.ogg</Path>
+				</File>
+				<File Id="861453058" Language="SFX">
+					<ShortName>FX_Ambience_Wren_02.wav</ShortName>
+					<Path>sfx\fx_ambience_wren_02_77d70297.ogg</Path>
+				</File>
+				<File Id="275396351" Language="SFX">
+					<ShortName>FX_BarrelShot.wav</ShortName>
+					<Path>sfx\fx_barrelshot_947f770c.ogg</Path>
+				</File>
+				<File Id="909048242" Language="SFX">
+					<ShortName>FX_Beeps_01.wav</ShortName>
+					<Path>sfx\fx_beeps_01_77d70297.ogg</Path>
+				</File>
+				<File Id="965850982" Language="SFX">
+					<ShortName>FX_Beeps_02.wav</ShortName>
+					<Path>sfx\fx_beeps_02_77d70297.ogg</Path>
+				</File>
+				<File Id="372073442" Language="SFX">
+					<ShortName>FX_Beeps_04.wav</ShortName>
+					<Path>sfx\fx_beeps_04_77d70297.ogg</Path>
+				</File>
+				<File Id="429914739" Language="SFX">
+					<ShortName>FX_Beeps_05.wav</ShortName>
+					<Path>sfx\fx_beeps_05_77d70297.ogg</Path>
+				</File>
+				<File Id="683791655" Language="SFX">
+					<ShortName>FX_Beeps_06.wav</ShortName>
+					<Path>sfx\fx_beeps_06_77d70297.ogg</Path>
+				</File>
+				<File Id="948280275" Language="SFX">
+					<ShortName>FX_Beeps_07.wav</ShortName>
+					<Path>sfx\fx_beeps_07_77d70297.ogg</Path>
+				</File>
+				<File Id="502857642" Language="SFX">
+					<ShortName>FX_Beeps_08.wav</ShortName>
+					<Path>sfx\fx_beeps_08_77d70297.ogg</Path>
+				</File>
+				<File Id="1055600587" Language="SFX">
+					<ShortName>FX_Beeps_09.wav</ShortName>
+					<Path>sfx\fx_beeps_09_77d70297.ogg</Path>
+				</File>
+				<File Id="490370174" Language="SFX">
+					<ShortName>FX_Beeps_10.wav</ShortName>
+					<Path>sfx\fx_beeps_10_77d70297.ogg</Path>
+				</File>
+				<File Id="904884286" Language="SFX">
+					<ShortName>FX_Boss_BigLaser.wav</ShortName>
+					<Path>sfx\fx_boss_biglaser_947f770c.ogg</Path>
+				</File>
+				<File Id="517487704" Language="SFX">
+					<ShortName>FX_Boss_CannonShot.wav</ShortName>
+					<Path>sfx\fx_boss_cannonshot_947f770c.ogg</Path>
+				</File>
+				<File Id="283610589" Language="SFX">
+					<ShortName>FX_Boss_Charge_LargeLaser.wav</ShortName>
+					<Path>sfx\fx_boss_charge_largelaser_947f770c.ogg</Path>
+				</File>
+				<File Id="685609865" Language="SFX">
+					<ShortName>FX_Boss_Spawn_Loop1.wav</ShortName>
+					<Path>sfx\fx_boss_spawn_loop1_947f770d.ogg</Path>
+				</File>
+				<File Id="433488507" Language="SFX">
+					<ShortName>FX_Boss_Spawn_Loop2.wav</ShortName>
+					<Path>sfx\fx_boss_spawn_loop2_947f770d.ogg</Path>
+				</File>
+				<File Id="565689545" Language="SFX">
+					<ShortName>FX_Boss_Spawn_Start.wav</ShortName>
+					<Path>sfx\fx_boss_spawn_start_947f770c.ogg</Path>
+				</File>
+				<File Id="512807531" Language="SFX">
+					<ShortName>FX_Boss_Spawn_Stop.wav</ShortName>
+					<Path>sfx\fx_boss_spawn_stop_947f770c.ogg</Path>
+				</File>
+				<File Id="351094347" Language="SFX">
+					<ShortName>FX_CrateBreak.wav</ShortName>
+					<Path>sfx\fx_cratebreak_947f770c.ogg</Path>
+				</File>
+				<File Id="990177978" Language="SFX">
+					<ShortName>FX_Equipment_Movement_01.wav</ShortName>
+					<Path>sfx\fx_equipment_movement_01_947f770c.ogg</Path>
+				</File>
+				<File Id="824246977" Language="SFX">
+					<ShortName>FX_Equipment_Movement_02.wav</ShortName>
+					<Path>sfx\fx_equipment_movement_02_947f770c.ogg</Path>
+				</File>
+				<File Id="135752741" Language="SFX">
+					<ShortName>FX_Equipment_Movement_03.wav</ShortName>
+					<Path>sfx\fx_equipment_movement_03_947f770c.ogg</Path>
+				</File>
+				<File Id="1065195661" Language="SFX">
+					<ShortName>FX_Equipment_Movement_04.wav</ShortName>
+					<Path>sfx\fx_equipment_movement_04_947f770c.ogg</Path>
+				</File>
+				<File Id="19972359" Language="SFX">
+					<ShortName>FX_Equipment_Movement_05.wav</ShortName>
+					<Path>sfx\fx_equipment_movement_05_947f770c.ogg</Path>
+				</File>
+				<File Id="3557028" Language="SFX">
+					<ShortName>FX_Equipment_Movement_06.wav</ShortName>
+					<Path>sfx\fx_equipment_movement_06_947f770c.ogg</Path>
+				</File>
+				<File Id="922018215" Language="SFX">
+					<ShortName>FX_Equipment_Movement_07.wav</ShortName>
+					<Path>sfx\fx_equipment_movement_07_947f770c.ogg</Path>
+				</File>
+				<File Id="57890722" Language="SFX">
+					<ShortName>FX_Flamethrower_Loop.wav</ShortName>
+					<Path>sfx\fx_flamethrower_loop_947f770d_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="901169038" Language="SFX">
+					<ShortName>FX_Flamethrower_Start.wav</ShortName>
+					<Path>sfx\fx_flamethrower_start_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="937616189" Language="SFX">
+					<ShortName>FX_Flamethrower_Stop.wav</ShortName>
+					<Path>sfx\fx_flamethrower_stop_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="266282919" Language="SFX">
+					<ShortName>FX_Flamethrower_Ultimate_Fire_Loop.wav</ShortName>
+					<Path>sfx\fx_flamethrower_ultimate_fire_loop_947f770d_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="15247318" Language="SFX">
+					<ShortName>FX_Flamethrower_Ultimate_Shot.wav</ShortName>
+					<Path>sfx\fx_flamethrower_ultimate_shot_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="809880178" Language="SFX">
+					<ShortName>FX_Flamethrower_Ultimate_Wind_Loop.wav</ShortName>
+					<Path>sfx\fx_flamethrower_ultimate_wind_loop_947f770d_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="299946634" Language="SFX">
+					<ShortName>FX_Footstep_01.wav</ShortName>
+					<Path>sfx\fx_footstep_01_947f770c.ogg</Path>
+				</File>
+				<File Id="391425581" Language="SFX">
+					<ShortName>FX_Footstep_02.wav</ShortName>
+					<Path>sfx\fx_footstep_02_947f770c.ogg</Path>
+				</File>
+				<File Id="14302490" Language="SFX">
+					<ShortName>FX_Footstep_03.wav</ShortName>
+					<Path>sfx\fx_footstep_03_947f770c.ogg</Path>
+				</File>
+				<File Id="726822477" Language="SFX">
+					<ShortName>FX_Footstep_04.wav</ShortName>
+					<Path>sfx\fx_footstep_04_947f770c.ogg</Path>
+				</File>
+				<File Id="211982331" Language="SFX">
+					<ShortName>FX_Footstep_05.wav</ShortName>
+					<Path>sfx\fx_footstep_05_947f770c.ogg</Path>
+				</File>
+				<File Id="111832365" Language="SFX">
+					<ShortName>FX_Footstep_06.wav</ShortName>
+					<Path>sfx\fx_footstep_06_947f770c.ogg</Path>
+				</File>
+				<File Id="655826696" Language="SFX">
+					<ShortName>FX_Footstep_07.wav</ShortName>
+					<Path>sfx\fx_footstep_07_947f770c.ogg</Path>
+				</File>
+				<File Id="17191213" Language="SFX">
+					<ShortName>FX_Footstep_08.wav</ShortName>
+					<Path>sfx\fx_footstep_08_947f770c.ogg</Path>
+				</File>
+				<File Id="170944016" Language="SFX">
+					<ShortName>FX_Footstep_09.wav</ShortName>
+					<Path>sfx\fx_footstep_09_947f770c.ogg</Path>
+				</File>
+				<File Id="146378706" Language="SFX">
+					<ShortName>FX_Land_01.wav</ShortName>
+					<Path>sfx\fx_land_01_947f770c.ogg</Path>
+				</File>
+				<File Id="61287624" Language="SFX">
+					<ShortName>FX_Land_02.wav</ShortName>
+					<Path>sfx\fx_land_02_947f770c.ogg</Path>
+				</File>
+				<File Id="459539886" Language="SFX">
+					<ShortName>FX_Land_03.wav</ShortName>
+					<Path>sfx\fx_land_03_947f770c.ogg</Path>
+				</File>
+				<File Id="538666568" Language="SFX">
+					<ShortName>FX_Land_04.wav</ShortName>
+					<Path>sfx\fx_land_04_947f770c.ogg</Path>
+				</File>
+				<File Id="687791657" Language="SFX">
+					<ShortName>FX_Player_Dash.wav</ShortName>
+					<Path>sfx\fx_player_dash_947f770c.ogg</Path>
+				</File>
+				<File Id="331040026" Language="SFX">
+					<ShortName>FX_Shotgun_Alt.wav</ShortName>
+					<Path>sfx\fx_shotgun_alt_947f770c_17ecda44.ogg</Path>
+				</File>
+				<File Id="488609797" Language="SFX">
+					<ShortName>FX_Shotgun_Ultimate.wav</ShortName>
+					<Path>sfx\fx_shotgun_ultimate_947f770c_17ecda44.ogg</Path>
+				</File>
+				<File Id="871695910" Language="SFX">
+					<ShortName>FX_Typing_Loop.wav</ShortName>
+					<Path>sfx\fx_typing_loop_77d70296.ogg</Path>
+				</File>
+				<File Id="829999638" Language="SFX">
+					<ShortName>FX_Weapon_RocketLauncher_01.wav</ShortName>
+					<Path>sfx\fx_weapon_rocketlauncher_01_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="146104868" Language="SFX">
+					<ShortName>FX_Weapon_RocketLauncher_02.wav</ShortName>
+					<Path>sfx\fx_weapon_rocketlauncher_02_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="729430630" Language="SFX">
+					<ShortName>FX_Weapon_RocketLauncher_03.wav</ShortName>
+					<Path>sfx\fx_weapon_rocketlauncher_03_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="318446232" Language="SFX">
+					<ShortName>FX_Weapon_RocketLauncher_04.wav</ShortName>
+					<Path>sfx\fx_weapon_rocketlauncher_04_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="661949677" Language="SFX">
+					<ShortName>FX_Weapon_RocketLauncher_05.wav</ShortName>
+					<Path>sfx\fx_weapon_rocketlauncher_05_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="187910050" Language="SFX">
+					<ShortName>FX_Weapon_RocketLauncher_Ult_DropBombs.wav</ShortName>
+					<Path>sfx\fx_weapon_rocketlauncher_ult_dropbombs_77d70297.ogg</Path>
+				</File>
+				<File Id="1071620674" Language="SFX">
+					<ShortName>FX_Weapon_RocketLauncher_Ult_PlaneBy.wav</ShortName>
+					<Path>sfx\fx_weapon_rocketlauncher_ult_planeby_77d70297.ogg</Path>
+				</File>
+				<File Id="530296019" Language="SFX">
+					<ShortName>FX_Weebos_Death01.wav</ShortName>
+					<Path>sfx\fx_weebos_death01_947f770c_7405aca7.ogg</Path>
+				</File>
+				<File Id="160732373" Language="SFX">
+					<ShortName>FX_Weebos_Death01.wav</ShortName>
+					<Path>sfx\fx_weebos_death01_947f770c_fdc28311.ogg</Path>
+				</File>
+				<File Id="200946170" Language="SFX">
+					<ShortName>FX_Weebos_Death02.wav</ShortName>
+					<Path>sfx\fx_weebos_death02_947f770c_7405aca7.ogg</Path>
+				</File>
+				<File Id="10969651" Language="SFX">
+					<ShortName>FX_Weebos_Death02.wav</ShortName>
+					<Path>sfx\fx_weebos_death02_947f770c_fdc28311.ogg</Path>
+				</File>
+				<File Id="780850316" Language="SFX">
+					<ShortName>FX_Weebos_Death03.wav</ShortName>
+					<Path>sfx\fx_weebos_death03_947f770c_7405aca7.ogg</Path>
+				</File>
+				<File Id="371488197" Language="SFX">
+					<ShortName>FX_Weebos_Death03.wav</ShortName>
+					<Path>sfx\fx_weebos_death03_947f770c_fdc28311.ogg</Path>
+				</File>
+				<File Id="665711622" Language="SFX">
+					<ShortName>FX_Weebos_Death04.wav</ShortName>
+					<Path>sfx\fx_weebos_death04_947f770c_7405aca7.ogg</Path>
+				</File>
+				<File Id="240410352" Language="SFX">
+					<ShortName>FX_Weebos_Death04.wav</ShortName>
+					<Path>sfx\fx_weebos_death04_947f770c_fdc28311.ogg</Path>
+				</File>
+				<File Id="970503804" Language="SFX">
+					<ShortName>FX_Weebos_Gunshot_01.wav</ShortName>
+					<Path>sfx\fx_weebos_gunshot_01_947f770c_8079cf26.ogg</Path>
+				</File>
+				<File Id="510605885" Language="SFX">
+					<ShortName>FX_Weebos_Gunshot_02.wav</ShortName>
+					<Path>sfx\fx_weebos_gunshot_02_947f770c_8079cf26.ogg</Path>
+				</File>
+				<File Id="245419012" Language="SFX">
+					<ShortName>FX_Weebos_Gunshot_03.wav</ShortName>
+					<Path>sfx\fx_weebos_gunshot_03_947f770c_8079cf26.ogg</Path>
+				</File>
+				<File Id="846111012" Language="SFX">
+					<ShortName>FX_Weebos_Gunshot_04.wav</ShortName>
+					<Path>sfx\fx_weebos_gunshot_04_947f770c_8079cf26.ogg</Path>
+				</File>
+				<File Id="471819398" Language="SFX">
+					<ShortName>FX_Weebos_Gunshot_05.wav</ShortName>
+					<Path>sfx\fx_weebos_gunshot_05_947f770c_8079cf26.ogg</Path>
+				</File>
+				<File Id="613996503" Language="SFX">
+					<ShortName>FX_Weebos_Jump_01.wav</ShortName>
+					<Path>sfx\fx_weebos_jump_01_947f770c.ogg</Path>
+				</File>
+				<File Id="345734774" Language="SFX">
+					<ShortName>FX_Weebos_Jump_02.wav</ShortName>
+					<Path>sfx\fx_weebos_jump_02_947f770c.ogg</Path>
+				</File>
+				<File Id="178454136" Language="SFX">
+					<ShortName>FX_Weebos_Jump_03.wav</ShortName>
+					<Path>sfx\fx_weebos_jump_03_947f770c.ogg</Path>
+				</File>
+				<File Id="693284046" Language="SFX">
+					<ShortName>FX_Weebos_Noise_01.wav</ShortName>
+					<Path>sfx\fx_weebos_noise_01_947f770c.ogg</Path>
+				</File>
+				<File Id="339079032" Language="SFX">
+					<ShortName>FX_Weebos_Noise_02.wav</ShortName>
+					<Path>sfx\fx_weebos_noise_02_947f770c.ogg</Path>
+				</File>
+				<File Id="154127137" Language="SFX">
+					<ShortName>FX_Weebos_Noise_03.wav</ShortName>
+					<Path>sfx\fx_weebos_noise_03_947f770c.ogg</Path>
+				</File>
+				<File Id="274772393" Language="SFX">
+					<ShortName>FX_Weebos_Noise_04.wav</ShortName>
+					<Path>sfx\fx_weebos_noise_04_947f770c.ogg</Path>
+				</File>
+				<File Id="852562182" Language="SFX">
+					<ShortName>FX_Weebos_Noise_05.wav</ShortName>
+					<Path>sfx\fx_weebos_noise_05_947f770c.ogg</Path>
+				</File>
+				<File Id="1030654616" Language="SFX">
+					<ShortName>FX_Wind_EerieLoop03.wav</ShortName>
+					<Path>sfx\fx_wind_eerieloop03_77d70296.ogg</Path>
+				</File>
+				<File Id="549193432" Language="SFX">
+					<ShortName>LightningGunUlt_01.wav</ShortName>
+					<Path>sfx\lightninggunult_01_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="233695585" Language="SFX">
+					<ShortName>LightningGunUlt_02.wav</ShortName>
+					<Path>sfx\lightninggunult_02_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="319259632" Language="SFX">
+					<ShortName>LightningGunUlt_03.wav</ShortName>
+					<Path>sfx\lightninggunult_03_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="939800554" Language="SFX">
+					<ShortName>MachineGun.wav</ShortName>
+					<Path>sfx\machinegun_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="76561608" Language="SFX">
+					<ShortName>MX_N2_FanFare.wav</ShortName>
+					<Path>sfx\mx_n2_fanfare_8e577417.ogg</Path>
+				</File>
+				<File Id="680355911" Language="SFX">
+					<ShortName>MX_N2_GameOver.wav</ShortName>
+					<Path>sfx\mx_n2_gameover_8e577417.ogg</Path>
+				</File>
+				<File Id="895612241" Language="SFX">
+					<ShortName>MX_N2_Menu_Soundtrack.wav</ShortName>
+					<Path>sfx\mx_n2_menu_soundtrack_8e577417.ogg</Path>
+				</File>
+				<File Id="521751769" Language="SFX">
+					<ShortName>MX_N2_Menu_Soundtrack_Loop.wav</ShortName>
+					<Path>sfx\mx_n2_menu_soundtrack_loop_8e577417.ogg</Path>
+				</File>
+				<File Id="718466885" Language="SFX">
+					<ShortName>MX_N2_Soundtrack2.wav</ShortName>
+					<Path>sfx\mx_n2_soundtrack2_8e577417.ogg</Path>
+				</File>
+				<File Id="1017679855" Language="SFX">
+					<ShortName>RocketLauncherAltTravel.wav</ShortName>
+					<Path>sfx\rocketlauncheralttravel_947f770d_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="257398816" Language="SFX">
+					<ShortName>SFX_Bullet_Hit_Groun_01.wav</ShortName>
+					<Path>sfx\sfx_bullet_hit_groun_01_947f770c.ogg</Path>
+				</File>
+				<File Id="923451837" Language="SFX">
+					<ShortName>SFX_Bullet_Hit_Groun_02.wav</ShortName>
+					<Path>sfx\sfx_bullet_hit_groun_02_947f770c.ogg</Path>
+				</File>
+				<File Id="208253767" Language="SFX">
+					<ShortName>SFX_Bullet_Hit_Groun_03.wav</ShortName>
+					<Path>sfx\sfx_bullet_hit_groun_03_947f770c.ogg</Path>
+				</File>
+				<File Id="271307484" Language="SFX">
+					<ShortName>SFX_Bullet_Hit_Groun_04.wav</ShortName>
+					<Path>sfx\sfx_bullet_hit_groun_04_947f770c.ogg</Path>
+				</File>
+				<File Id="22346358" Language="SFX">
+					<ShortName>SFX_Bullet_Hit_Groun_05.wav</ShortName>
+					<Path>sfx\sfx_bullet_hit_groun_05_947f770c.ogg</Path>
+				</File>
+				<File Id="1008206303" Language="SFX">
+					<ShortName>SFX_Bullet_Hit_Groun_06.wav</ShortName>
+					<Path>sfx\sfx_bullet_hit_groun_06_947f770c.ogg</Path>
+				</File>
+				<File Id="449800775" Language="SFX">
+					<ShortName>SFX_Bullet_Hit_Groun_07.wav</ShortName>
+					<Path>sfx\sfx_bullet_hit_groun_07_947f770c.ogg</Path>
+				</File>
+				<File Id="778245645" Language="SFX">
+					<ShortName>SFX_Enemy_Robot_Hit_01.wav</ShortName>
+					<Path>sfx\sfx_enemy_robot_hit_01_947f770c_abaabc11.ogg</Path>
+				</File>
+				<File Id="853875908" Language="SFX">
+					<ShortName>SFX_Enemy_Robot_Hit_02.wav</ShortName>
+					<Path>sfx\sfx_enemy_robot_hit_02_947f770c_abaabc11.ogg</Path>
+				</File>
+				<File Id="1005683245" Language="SFX">
+					<ShortName>SFX_Enemy_Robot_Hit_03.wav</ShortName>
+					<Path>sfx\sfx_enemy_robot_hit_03_947f770c_abaabc11.ogg</Path>
+				</File>
+				<File Id="310735779" Language="SFX">
+					<ShortName>SFX_Enemy_Robot_Hit_04.wav</ShortName>
+					<Path>sfx\sfx_enemy_robot_hit_04_947f770c_abaabc11.ogg</Path>
+				</File>
+				<File Id="551567300" Language="SFX">
+					<ShortName>SFX_Flamethrower_Alt.wav</ShortName>
+					<Path>sfx\sfx_flamethrower_alt_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="328251139" Language="SFX">
+					<ShortName>SFX_Flamethrower_Loop.wav</ShortName>
+					<Path>sfx\sfx_flamethrower_loop_947f770d_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="803876685" Language="SFX">
+					<ShortName>SFX_LightningGun_ElectricLoop.wav</ShortName>
+					<Path>sfx\sfx_lightninggun_electricloop_947f770d_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="309421819" Language="SFX">
+					<ShortName>SFX_LightningGun_ExplosionLoop.wav</ShortName>
+					<Path>sfx\sfx_lightninggun_explosionloop_947f770d_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="953557518" Language="SFX">
+					<ShortName>SFX_LightningGun_Start.wav</ShortName>
+					<Path>sfx\sfx_lightninggun_start_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="362572082" Language="SFX">
+					<ShortName>SFX_LightningGun_Stop.wav</ShortName>
+					<Path>sfx\sfx_lightninggun_stop_947f770c_b9d0aa41.ogg</Path>
+				</File>
+				<File Id="72084467" Language="SFX">
+					<ShortName>SFX_Menu_Down.wav</ShortName>
+					<Path>sfx\sfx_menu_down_77d70297.ogg</Path>
+				</File>
+				<File Id="316004784" Language="SFX">
+					<ShortName>SFX_Menu_GoBack.wav</ShortName>
+					<Path>sfx\sfx_menu_goback_77d70297.ogg</Path>
+				</File>
+				<File Id="476345214" Language="SFX">
+					<ShortName>SFX_Menu_Select.wav</ShortName>
+					<Path>sfx\sfx_menu_select_77d70297.ogg</Path>
+				</File>
+				<File Id="989164456" Language="SFX">
+					<ShortName>SFX_Menu_Up.wav</ShortName>
+					<Path>sfx\sfx_menu_up_77d70297.ogg</Path>
+				</File>
+				<File Id="649213612" Language="SFX">
+					<ShortName>SFX_Pickup_Flamethrower.wav</ShortName>
+					<Path>sfx\sfx_pickup_flamethrower_947f770c.ogg</Path>
+				</File>
+				<File Id="157192555" Language="SFX">
+					<ShortName>SFX_Pickup_LightningGun.wav</ShortName>
+					<Path>sfx\sfx_pickup_lightninggun_947f770c.ogg</Path>
+				</File>
+				<File Id="97724341" Language="SFX">
+					<ShortName>SFX_Pickup_MachineGun.wav</ShortName>
+					<Path>sfx\sfx_pickup_machinegun_947f770c.ogg</Path>
+				</File>
+				<File Id="80931331" Language="SFX">
+					<ShortName>SFX_Pickup_RocketLauncher.wav</ShortName>
+					<Path>sfx\sfx_pickup_rocketlauncher_947f770c.ogg</Path>
+				</File>
+				<File Id="904213953" Language="SFX">
+					<ShortName>SFX_Pickup_ShotGun.wav</ShortName>
+					<Path>sfx\sfx_pickup_shotgun_947f770c.ogg</Path>
+				</File>
+				<File Id="315408771" Language="SFX">
+					<ShortName>SFX_ScoreTicker_Loop.wav</ShortName>
+					<Path>sfx\sfx_scoreticker_loop_77d70296.ogg</Path>
+				</File>
+				<File Id="248316940" Language="SFX">
+					<ShortName>SFX_Weebos_Helicopter_Loop.wav</ShortName>
+					<Path>sfx\sfx_weebos_helicopter_loop_947f770d.ogg</Path>
+				</File>
+				<File Id="279438755" Language="SFX">
+					<ShortName>Shotgun.wav</ShortName>
+					<Path>sfx\shotgun_947f770c_17ecda44.ogg</Path>
+				</File>
+				<File Id="141669454" Language="SFX">
+					<ShortName>Valve_MetalWheelTurn_Squeak1.wav</ShortName>
+					<Path>sfx\valve_metalwheelturn_squeak1_77d70297.ogg</Path>
+				</File>
+				<File Id="811613732" Language="SFX">
+					<ShortName>Valve_MetalWheelTurn_Squeak2.wav</ShortName>
+					<Path>sfx\valve_metalwheelturn_squeak2_77d70297.ogg</Path>
+				</File>
+				<File Id="148510087" Language="SFX">
+					<ShortName>Wind_Gust02.wav</ShortName>
+					<Path>sfx\wind_gust02_77d70297.ogg</Path>
+				</File>
+				<File Id="428821245" Language="SFX">
+					<ShortName>Wind_Gust10.wav</ShortName>
+					<Path>sfx\wind_gust10_77d70297.ogg</Path>
+				</File>
+				<File Id="452718040" Language="SFX">
+					<ShortName>Wind_Gust11.wav</ShortName>
+					<Path>sfx\wind_gust11_77d70297.ogg</Path>
+				</File>
+				<File Id="98590330" Language="SFX">
+					<ShortName>Wind_Loop10.wav</ShortName>
+					<Path>sfx\wind_loop10_77d70296.ogg</Path>
+				</File>
+			</IncludedFullFiles>
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

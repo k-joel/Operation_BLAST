@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EmitterList NumberOfEmitters="2">
+  <Emitter>
+    <EmitterProperties>
+      <Name>Emitter</Name>
+      <Texture>SEXPLOSION.tga</Texture>
+      <Effect>Particle.fx</Effect>
+      <KillOnComplete>true</KillOnComplete>
+      <KillOnDeactivate>true</KillOnDeactivate>
+      <FixedBoundingBox>false</FixedBoundingBox>
+      <BoundingBox>
+        <Min X="-2" Y="-2" Z="-2" />
+        <Max X="2" Y="2" Z="2" />
+      </BoundingBox>
+      <EmitterDelay>0</EmitterDelay>
+      <DelayFirstLoopOnly>false</DelayFirstLoopOnly>
+      <EmitterDuration>3</EmitterDuration>
+      <LoopCount>1</LoopCount>
+      <BlendMode>TransparencyBlend</BlendMode>
+      <HUDEffect>false</HUDEffect>
+    </EmitterProperties>
+    <EmitterAttributeList NumberOfEmitterAttributes="9">
+      <EmitterAttribute Name="Spawn">
+        <SpawnRate>0.01</SpawnRate>
+        <SpawnMultiplier>30</SpawnMultiplier>
+        <MaxParticles>30</MaxParticles>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Lifetime">
+        <MinLife>0.7</MinLife>
+        <MaxLife>0.7</MaxLife>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Color By Life">
+        <StartColor A="255" R="255" G="69" B="0" />
+        <EndColor A="255" R="0" G="0" B="0" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Size">
+        <MinSize>128</MinSize>
+        <MaxSize>3000</MaxSize>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Rotation">
+        <MinRot>1.57</MinRot>
+        <MaxRot>-1.57</MaxRot>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Rot Rate">
+        <MinRate>12</MinRate>
+        <MaxRate>-12</MaxRate>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Velocity">
+        <MinVelocity X="-50" Y="30" Z="-50" />
+        <MaxVelocity X="50" Y="-30" Z="50" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Size By Life">
+        <StartSize>64</StartSize>
+        <EndSize>1000</EndSize>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Sphere">
+        <Center X="0" Y="0" Z="0" />
+        <Radius>1</Radius>
+        <X>true</X>
+        <Y>true</Y>
+        <Z>true</Z>
+        <SurfaceOnly>true</SurfaceOnly>
+        <Velocity>true</Velocity>
+        <VelocityScale X="50" Y="50" Z="50" />
+      </EmitterAttribute>
+    </EmitterAttributeList>
+  </Emitter>
+  <Emitter>
+    <EmitterProperties>
+      <Name>Emitter</Name>
+      <Texture>SEXPLOSION.tga</Texture>
+      <Effect>Particle.fx</Effect>
+      <KillOnComplete>true</KillOnComplete>
+      <KillOnDeactivate>true</KillOnDeactivate>
+      <FixedBoundingBox>false</FixedBoundingBox>
+      <BoundingBox>
+        <Min X="-2" Y="-2" Z="-2" />
+        <Max X="2" Y="2" Z="2" />
+      </BoundingBox>
+      <EmitterDelay>0</EmitterDelay>
+      <DelayFirstLoopOnly>false</DelayFirstLoopOnly>
+      <EmitterDuration>0</EmitterDuration>
+      <LoopCount>0</LoopCount>
+      <BlendMode>AdditiveBlend</BlendMode>
+      <HUDEffect>false</HUDEffect>
+    </EmitterProperties>
+    <EmitterAttributeList NumberOfEmitterAttributes="7">
+      <EmitterAttribute Name="Spawn">
+        <SpawnRate>0.01</SpawnRate>
+        <SpawnMultiplier>10</SpawnMultiplier>
+        <MaxParticles>10</MaxParticles>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Lifetime">
+        <MinLife>0.3</MinLife>
+        <MaxLife>0.4</MaxLife>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Color By Life">
+        <StartColor A="255" R="255" G="255" B="255" />
+        <EndColor A="255" R="255" G="69" B="0" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Size By Life">
+        <StartSize>2600</StartSize>
+        <EndSize>64</EndSize>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Rotation">
+        <MinRot>1.57</MinRot>
+        <MaxRot>-1.57</MaxRot>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Vel By Life">
+        <StartVelocity X="0" Y="0" Z="-30" />
+        <EndVelocity X="0" Y="0" Z="0" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Box">
+        <MinPoint X="-10" Y="-10" Z="-10" />
+        <MaxPoint X="10" Y="10" Z="10" />
+      </EmitterAttribute>
+    </EmitterAttributeList>
+  </Emitter>
+</EmitterList>

@@ -1,0 +1,14 @@
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	98638437	Positive Feedback			\Default Work Unit\Master Audio Bus\Barron\Positive Feedback	
+	232045267	Barron			\Default Work Unit\Master Audio Bus\Barron	
+	512562682	Announcer			\Default Work Unit\Master Audio Bus\Announcer	
+	532405051	New Motion Bus			\Default Work Unit\Master Motion Bus\New Motion Bus	
+	652183330	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	730541037	Master Motion Bus			\Default Work Unit\Master Motion Bus	
+	808170187	DX			\Default Work Unit\Master Audio Bus\DX	
+	914722684	FX			\Default Work Unit\Master Audio Bus\FX	
+	937925804	MX			\Default Work Unit\Master Audio Bus\MX	
+
+Effect plug-ins	ID	Name	Type				Notes
+	408728028	Default (Custom)	Wwise Peak Limiter			
+

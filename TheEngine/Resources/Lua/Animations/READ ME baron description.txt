@@ -1,0 +1,62 @@
+to get time of frame, divide frame index by 24.0 (24 frames per second)
+
+frames range : name
+--------------------ground---------------------
+1:bind pose (ignored)
+2-10:shootForward
+
+11-24:run
+
+25-26:aimUp
+27-28:aimDiagonalUp
+29-30:aimForward (idle)
+31-32:aimDiagonalDown
+33-34:aimDown
+
+35-43:shootUp
+44-52:shootDiagonalUp
+
+53-61:shootDiagonalDown
+62-70:shootDown
+
+71-73:prone
+74-82:shootProne
+---------------------jumping--------------------
+--to get falls use second half of any jump animation
+83-104:jumpAimUp
+105-126:jumpAimDiagonalUp
+127-148:jumpAimForward
+149-170:jumpAimDiagonalDown
+171-192:jumpAimDown
+
+193-214:jumpShootUp
+215-236:jumpShootDiagonalUp
+237-258:jumpShootForward
+259-280:jumpShootDiagonalDown
+281-302:jumpShootDown
+----------------------special-------------------
+303-315:damage
+316-376:victory
+377-407:lose
+408-438:death
+439-469:special
+-----------------------run----------------------
+470-483:runAimUp
+484-497:runAimDiagonalUp
+498-511:runAimForward
+512-525:runAimDiagonalDown
+526-539:runAimDown
+
+540-553:runShootUp(when will this be used???)
+559-567:runShootDiagonalUp
+???(no runShootForward???)
+568-581:runShootDiagonalDown
+582-595:runShootDown(when will this be used???)
+610-624:dash forward
+625-637:dash backwards
+638-650:jump down
+651-699:idle
+
+Assaulter----------
+109-124 jetpack
+125-151 jetpackLand

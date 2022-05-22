@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EmitterList NumberOfEmitters="2">
+  <Emitter>
+    <EmitterProperties>
+      <Name>trail</Name>
+      <Texture>blast03.tga</Texture>
+      <Effect>Particle.fx</Effect>
+      <KillOnComplete>false</KillOnComplete>
+      <KillOnDeactivate>false</KillOnDeactivate>
+      <FixedBoundingBox>false</FixedBoundingBox>
+      <BoundingBox>
+        <Min X="-2" Y="-2" Z="-2" />
+        <Max X="2" Y="2" Z="2" />
+      </BoundingBox>
+      <EmitterDelay>0</EmitterDelay>
+      <DelayFirstLoopOnly>false</DelayFirstLoopOnly>
+      <EmitterDuration>0</EmitterDuration>
+      <LoopCount>0</LoopCount>
+      <BlendMode>AdditiveBlend</BlendMode>
+      <HUDEffect>false</HUDEffect>
+    </EmitterProperties>
+    <EmitterAttributeList NumberOfEmitterAttributes="7">
+      <EmitterAttribute Name="Spawn">
+        <SpawnRate>0.09</SpawnRate>
+        <SpawnMultiplier>3</SpawnMultiplier>
+        <MaxParticles>0</MaxParticles>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Lifetime">
+        <MinLife>0.3</MinLife>
+        <MaxLife>0.3</MaxLife>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Velocity">
+        <MinVelocity X="0" Y="0" Z="40" />
+        <MaxVelocity X="0" Y="0" Z="60" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Color By Life">
+        <StartColor A="255" R="255" G="255" B="255" />
+        <EndColor A="255" R="255" G="140" B="0" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Size By Life">
+        <StartSize>200</StartSize>
+        <EndSize>600</EndSize>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Orbit">
+        <MinPoint X="0" Y="3" Z="0" />
+        <MaxPoint X="0" Y="-3" Z="0" />
+        <MinRot X="0" Y="0" Z="0" />
+        <MaxRot X="0" Y="0" Z="0" />
+        <MinRate X="0" Y="0" Z="0" />
+        <MaxRate X="0" Y="0" Z="0" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Rotation">
+        <MinRot>0</MinRot>
+        <MaxRot>0</MaxRot>
+      </EmitterAttribute>
+    </EmitterAttributeList>
+  </Emitter>
+  <Emitter>
+    <EmitterProperties>
+      <Name>e</Name>
+      <Texture>ember01.png</Texture>
+      <Effect>Particle.fx</Effect>
+      <KillOnComplete>false</KillOnComplete>
+      <KillOnDeactivate>false</KillOnDeactivate>
+      <FixedBoundingBox>false</FixedBoundingBox>
+      <BoundingBox>
+        <Min X="-2" Y="-2" Z="-2" />
+        <Max X="2" Y="2" Z="2" />
+      </BoundingBox>
+      <EmitterDelay>0</EmitterDelay>
+      <DelayFirstLoopOnly>false</DelayFirstLoopOnly>
+      <EmitterDuration>0</EmitterDuration>
+      <LoopCount>0</LoopCount>
+      <BlendMode>AdditiveBlend</BlendMode>
+      <HUDEffect>false</HUDEffect>
+    </EmitterProperties>
+    <EmitterAttributeList NumberOfEmitterAttributes="6">
+      <EmitterAttribute Name="Spawn">
+        <SpawnRate>0.1</SpawnRate>
+        <SpawnMultiplier>2</SpawnMultiplier>
+        <MaxParticles>0</MaxParticles>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Lifetime">
+        <MinLife>0.5</MinLife>
+        <MaxLife>0.8</MaxLife>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Color By Life">
+        <StartColor A="255" R="255" G="255" B="255" />
+        <EndColor A="255" R="255" G="140" B="0" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Size By Life">
+        <StartSize>400</StartSize>
+        <EndSize>128</EndSize>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Velocity">
+        <MinVelocity X="0" Y="-3" Z="20" />
+        <MaxVelocity X="0" Y="3" Z="40" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Acc By Life">
+        <StartAcceleration X="0" Y="0" Z="45" />
+        <EndAcceleration X="0" Y="0" Z="50" />
+      </EmitterAttribute>
+    </EmitterAttributeList>
+  </Emitter>
+</EmitterList>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EmitterList NumberOfEmitters="1">
+  <Emitter>
+    <EmitterProperties>
+      <Name>Emitter</Name>
+      <Texture>smoke01.png</Texture>
+      <Effect>Particle.fx</Effect>
+      <KillOnComplete>false</KillOnComplete>
+      <KillOnDeactivate>false</KillOnDeactivate>
+      <FixedBoundingBox>false</FixedBoundingBox>
+      <BoundingBox>
+        <Min X="-2" Y="-2" Z="-2" />
+        <Max X="2" Y="2" Z="2" />
+      </BoundingBox>
+      <EmitterDelay>0</EmitterDelay>
+      <DelayFirstLoopOnly>false</DelayFirstLoopOnly>
+      <EmitterDuration>0</EmitterDuration>
+      <LoopCount>0</LoopCount>
+      <BlendMode>TransparencyBlend</BlendMode>
+      <HUDEffect>false</HUDEffect>
+    </EmitterProperties>
+    <EmitterAttributeList NumberOfEmitterAttributes="9">
+      <EmitterAttribute Name="Spawn">
+        <SpawnRate>0.05</SpawnRate>
+        <SpawnMultiplier>4</SpawnMultiplier>
+        <MaxParticles>0</MaxParticles>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Lifetime">
+        <MinLife>3</MinLife>
+        <MaxLife>6</MaxLife>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Velocity">
+        <MinVelocity X="-6" Y="28" Z="-3" />
+        <MaxVelocity X="7" Y="38" Z="4" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Acceleration">
+        <MinAcceleration X="0" Y="0" Z="-1" />
+        <MaxAcceleration X="-3" Y="2" Z="1" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Color By Life">
+        <StartColor A="225" R="0" G="0" B="0" />
+        <EndColor A="0" R="100" G="100" B="100" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Size By Life">
+        <StartSize>256</StartSize>
+        <EndSize>768</EndSize>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Rotation">
+        <MinRot>-3</MinRot>
+        <MaxRot>3</MaxRot>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Box">
+        <MinPoint X="-10" Y="-5" Z="-20" />
+        <MaxPoint X="10" Y="5" Z="20" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Rot Rate">
+        <MinRate>-1</MinRate>
+        <MaxRate>1</MaxRate>
+      </EmitterAttribute>
+    </EmitterAttributeList>
+  </Emitter>
+</EmitterList>

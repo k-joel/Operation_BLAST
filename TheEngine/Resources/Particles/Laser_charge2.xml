@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EmitterList NumberOfEmitters="2">
+  <Emitter>
+    <EmitterProperties>
+      <Name>Emitter</Name>
+      <Texture>ember01.png</Texture>
+      <Effect>Particle.fx</Effect>
+      <KillOnComplete>false</KillOnComplete>
+      <KillOnDeactivate>true</KillOnDeactivate>
+      <FixedBoundingBox>false</FixedBoundingBox>
+      <BoundingBox>
+        <Min X="-2" Y="-2" Z="-2" />
+        <Max X="2" Y="2" Z="2" />
+      </BoundingBox>
+      <EmitterDelay>0</EmitterDelay>
+      <DelayFirstLoopOnly>false</DelayFirstLoopOnly>
+      <EmitterDuration>6</EmitterDuration>
+      <LoopCount>1</LoopCount>
+      <BlendMode>AdditiveBlend</BlendMode>
+      <HUDEffect>false</HUDEffect>
+    </EmitterProperties>
+    <EmitterAttributeList NumberOfEmitterAttributes="6">
+      <EmitterAttribute Name="Spawn">
+        <SpawnRate>0.09</SpawnRate>
+        <SpawnMultiplier>5</SpawnMultiplier>
+        <MaxParticles>0</MaxParticles>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Lifetime">
+        <MinLife>0.5</MinLife>
+        <MaxLife>0.5</MaxLife>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Color By Life">
+        <StartColor A="255" R="255" G="255" B="255" />
+        <EndColor A="255" R="0" G="255" B="255" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Sphere">
+        <Center X="0" Y="0" Z="0" />
+        <Radius>30</Radius>
+        <X>true</X>
+        <Y>true</Y>
+        <Z>true</Z>
+        <SurfaceOnly>true</SurfaceOnly>
+        <Velocity>true</Velocity>
+        <VelocityScale X="-5" Y="-5" Z="-5" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Size By Life">
+        <StartSize>256</StartSize>
+        <EndSize>32</EndSize>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Orbit">
+        <MinPoint X="0" Y="0" Z="0" />
+        <MaxPoint X="0" Y="0" Z="0" />
+        <MinRot X="0" Y="0" Z="0" />
+        <MaxRot X="0" Y="0" Z="0" />
+        <MinRate X="0" Y="0" Z="0" />
+        <MaxRate X="0" Y="0" Z="0" />
+      </EmitterAttribute>
+    </EmitterAttributeList>
+  </Emitter>
+  <Emitter>
+    <EmitterProperties>
+      <Name>Emitter</Name>
+      <Texture>ember01.png</Texture>
+      <Effect>Particle.fx</Effect>
+      <KillOnComplete>false</KillOnComplete>
+      <KillOnDeactivate>true</KillOnDeactivate>
+      <FixedBoundingBox>false</FixedBoundingBox>
+      <BoundingBox>
+        <Min X="-2" Y="-2" Z="-2" />
+        <Max X="2" Y="2" Z="2" />
+      </BoundingBox>
+      <EmitterDelay>0</EmitterDelay>
+      <DelayFirstLoopOnly>false</DelayFirstLoopOnly>
+      <EmitterDuration>6</EmitterDuration>
+      <LoopCount>1</LoopCount>
+      <BlendMode>AdditiveBlend</BlendMode>
+      <HUDEffect>false</HUDEffect>
+    </EmitterProperties>
+    <EmitterAttributeList NumberOfEmitterAttributes="4">
+      <EmitterAttribute Name="Spawn">
+        <SpawnRate>0.1</SpawnRate>
+        <SpawnMultiplier>1</SpawnMultiplier>
+        <MaxParticles>0</MaxParticles>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Lifetime">
+        <MinLife>0</MinLife>
+        <MaxLife>4</MaxLife>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Color By Life">
+        <StartColor A="255" R="255" G="255" B="255" />
+        <EndColor A="255" R="0" G="255" B="255" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Size By Life">
+        <StartSize>8</StartSize>
+        <EndSize>600</EndSize>
+      </EmitterAttribute>
+    </EmitterAttributeList>
+  </Emitter>
+</EmitterList>

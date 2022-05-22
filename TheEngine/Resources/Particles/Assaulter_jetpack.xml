@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EmitterList NumberOfEmitters="1">
+  <Emitter>
+    <EmitterProperties>
+      <Name>Emitter</Name>
+      <Texture>smoke01.png</Texture>
+      <Effect>Particle.fx</Effect>
+      <KillOnComplete>false</KillOnComplete>
+      <KillOnDeactivate>false</KillOnDeactivate>
+      <FixedBoundingBox>false</FixedBoundingBox>
+      <BoundingBox>
+        <Min X="-2" Y="-2" Z="-2" />
+        <Max X="2" Y="2" Z="2" />
+      </BoundingBox>
+      <EmitterDelay>0</EmitterDelay>
+      <DelayFirstLoopOnly>false</DelayFirstLoopOnly>
+      <EmitterDuration>0</EmitterDuration>
+      <LoopCount>0</LoopCount>
+      <BlendMode>AdditiveBlend</BlendMode>
+      <HUDEffect>false</HUDEffect>
+    </EmitterProperties>
+    <EmitterAttributeList NumberOfEmitterAttributes="8">
+      <EmitterAttribute Name="Spawn">
+        <SpawnRate>0.1</SpawnRate>
+        <SpawnMultiplier>4</SpawnMultiplier>
+        <MaxParticles>0</MaxParticles>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Lifetime">
+        <MinLife>1</MinLife>
+        <MaxLife>2</MaxLife>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Velocity">
+        <MinVelocity X="0" Y="-8" Z="2" />
+        <MaxVelocity X="0" Y="-10" Z="-2" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Acceleration">
+        <MinAcceleration X="0" Y="-6" Z="0" />
+        <MaxAcceleration X="0" Y="-10" Z="0" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Color By Life">
+        <StartColor A="255" R="255" G="255" B="255" />
+        <EndColor A="255" R="32" G="178" B="170" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Size By Life">
+        <StartSize>64</StartSize>
+        <EndSize>200</EndSize>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Rotation">
+        <MinRot>12</MinRot>
+        <MaxRot>-12</MaxRot>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Rot Rate">
+        <MinRate>-12</MinRate>
+        <MaxRate>12</MaxRate>
+      </EmitterAttribute>
+    </EmitterAttributeList>
+  </Emitter>
+</EmitterList>

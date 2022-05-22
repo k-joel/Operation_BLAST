@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EmitterList NumberOfEmitters="2">
+  <Emitter>
+    <EmitterProperties>
+      <Name>+5000</Name>
+      <Texture>Winner.png</Texture>
+      <Effect>Particle.fx</Effect>
+      <KillOnComplete>true</KillOnComplete>
+      <KillOnDeactivate>true</KillOnDeactivate>
+      <FixedBoundingBox>false</FixedBoundingBox>
+      <BoundingBox>
+        <Min X="-2" Y="-2" Z="-2" />
+        <Max X="2" Y="2" Z="2" />
+      </BoundingBox>
+      <EmitterDelay>0</EmitterDelay>
+      <DelayFirstLoopOnly>false</DelayFirstLoopOnly>
+      <EmitterDuration>3</EmitterDuration>
+      <LoopCount>1</LoopCount>
+      <BlendMode>TransparencyBlend</BlendMode>
+      <HUDEffect>false</HUDEffect>
+    </EmitterProperties>
+    <EmitterAttributeList NumberOfEmitterAttributes="5">
+      <EmitterAttribute Name="Spawn">
+        <SpawnRate>0.01</SpawnRate>
+        <SpawnMultiplier>1</SpawnMultiplier>
+        <MaxParticles>1</MaxParticles>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Lifetime">
+        <MinLife>3</MinLife>
+        <MaxLife>3</MaxLife>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Velocity">
+        <MinVelocity X="0" Y="5" Z="0" />
+        <MaxVelocity X="0" Y="5" Z="0" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Color By Life">
+        <StartColor A="255" R="0" G="0" B="225" />
+        <EndColor A="255" R="0" G="0" B="225" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Size">
+        <MinSize>1000</MinSize>
+        <MaxSize>1000</MaxSize>
+      </EmitterAttribute>
+    </EmitterAttributeList>
+  </Emitter>
+  <Emitter>
+    <EmitterProperties>
+      <Name>Emitter</Name>
+      <Texture>Sparkle.png</Texture>
+      <Effect>Particle.fx</Effect>
+      <KillOnComplete>true</KillOnComplete>
+      <KillOnDeactivate>true</KillOnDeactivate>
+      <FixedBoundingBox>false</FixedBoundingBox>
+      <BoundingBox>
+        <Min X="-2" Y="-2" Z="-2" />
+        <Max X="2" Y="2" Z="2" />
+      </BoundingBox>
+      <EmitterDelay>0</EmitterDelay>
+      <DelayFirstLoopOnly>false</DelayFirstLoopOnly>
+      <EmitterDuration>3</EmitterDuration>
+      <LoopCount>1</LoopCount>
+      <BlendMode>AdditiveBlend</BlendMode>
+      <HUDEffect>false</HUDEffect>
+    </EmitterProperties>
+    <EmitterAttributeList NumberOfEmitterAttributes="7">
+      <EmitterAttribute Name="Spawn">
+        <SpawnRate>0.01</SpawnRate>
+        <SpawnMultiplier>1</SpawnMultiplier>
+        <MaxParticles>20</MaxParticles>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Lifetime">
+        <MinLife>3</MinLife>
+        <MaxLife>3</MaxLife>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Velocity">
+        <MinVelocity X="-10" Y="-10" Z="-10" />
+        <MaxVelocity X="10" Y="10" Z="10" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Acceleration">
+        <MinAcceleration X="0" Y="0" Z="0" />
+        <MaxAcceleration X="0" Y="0" Z="0" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Color By Life">
+        <StartColor A="200" R="255" G="255" B="128" />
+        <EndColor A="0" R="255" G="255" B="255" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Line">
+        <PointA X="0" Y="0" Z="0" />
+        <PointB X="0" Y="0" Z="0" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Size">
+        <MinSize>200</MinSize>
+        <MaxSize>200</MaxSize>
+      </EmitterAttribute>
+    </EmitterAttributeList>
+  </Emitter>
+</EmitterList>

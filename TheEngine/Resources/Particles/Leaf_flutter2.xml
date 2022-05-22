@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EmitterList NumberOfEmitters="1">
+  <Emitter>
+    <EmitterProperties>
+      <Name>Emitter</Name>
+      <Texture>Leafy4.tga</Texture>
+      <Effect>Particle.fx</Effect>
+      <KillOnComplete>true</KillOnComplete>
+      <KillOnDeactivate>false</KillOnDeactivate>
+      <FixedBoundingBox>false</FixedBoundingBox>
+      <BoundingBox>
+        <Min X="-2" Y="-2" Z="-2" />
+        <Max X="2" Y="2" Z="2" />
+      </BoundingBox>
+      <EmitterDelay>0</EmitterDelay>
+      <DelayFirstLoopOnly>false</DelayFirstLoopOnly>
+      <EmitterDuration>0</EmitterDuration>
+      <LoopCount>0</LoopCount>
+      <BlendMode>AdditiveBlend</BlendMode>
+      <HUDEffect>false</HUDEffect>
+    </EmitterProperties>
+    <EmitterAttributeList NumberOfEmitterAttributes="10">
+      <EmitterAttribute Name="Spawn">
+        <SpawnRate>0</SpawnRate>
+        <SpawnMultiplier>12</SpawnMultiplier>
+        <MaxParticles>12</MaxParticles>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Lifetime">
+        <MinLife>2.5</MinLife>
+        <MaxLife>4</MaxLife>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Velocity">
+        <MinVelocity X="-5" Y="-5" Z="5" />
+        <MaxVelocity X="5" Y="-30" Z="-5" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Color By Life">
+        <StartColor A="255" R="192" G="192" B="0" />
+        <EndColor A="255" R="128" G="128" B="0" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Orbit">
+        <MinPoint X="0" Y="0" Z="0" />
+        <MaxPoint X="0" Y="0" Z="0" />
+        <MinRot X="0" Y="0" Z="0" />
+        <MaxRot X="0" Y="0" Z="0" />
+        <MinRate X="0" Y="2" Z="0" />
+        <MaxRate X="0" Y="1" Z="0" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Acc By Life">
+        <StartAcceleration X="0" Y="-10" Z="0" />
+        <EndAcceleration X="0" Y="-10" Z="0" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Box">
+        <MinPoint X="-20" Y="0" Z="-10" />
+        <MaxPoint X="10" Y="0" Z="10" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Rotation">
+        <MinRot>-180</MinRot>
+        <MaxRot>180</MaxRot>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Rot Rate">
+        <MinRate>-4</MinRate>
+        <MaxRate>4</MaxRate>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Size">
+        <MinSize>32</MinSize>
+        <MaxSize>64</MaxSize>
+      </EmitterAttribute>
+    </EmitterAttributeList>
+  </Emitter>
+</EmitterList>

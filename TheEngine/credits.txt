@@ -1,0 +1,84 @@
+Executive Producer
+Patrick Kelly
+0
+Executive Producer
+Mike Lebo
+0
+Boss Man
+Carlos Lugo
+0
+Boss Woman
+Liz Rudis
+0
+Audio Director
+Chris Marks
+0
+Sound Designer
+Troy Fischesser
+0
+Sound Designer
+Brian Luft
+0
+Dialog Editor
+Josh Law
+0
+Voice of Claire
+Justine Daly
+0
+Voice of Baron
+Chris Marks
+0
+Voice of Announcer
+Casey Coffman
+0
+Internal Producer
+Bryan Solero
+0
+Internal Producer
+Dominic Santoro
+0
+Tech Lead
+TJ Farnie
+0
+Art Lead
+Andrew Kilmas
+0
+Engine/Particles/Renderer
+Kahran Ghosalkar
+0
+AI Programmer
+Camron Weeks
+0
+Pipeline Programmer
+Tristan Helmink
+0
+Gameplay/Audio Programmer
+Alex Hernandez
+0
+UI Programmer
+Nicholas Guzman
+0
+Artist
+Hao Zhu Chen
+0
+Artist
+Michael Herner
+0
+API
+LUA
+1
+API
+WWise
+2
+Special Thanks
+Joseph Leybovich
+0
+Special Thanks
+Jason Anderson
+0
+Thanks for Playing
+-N2
+0
+Press Accept
+To Exit.
+0

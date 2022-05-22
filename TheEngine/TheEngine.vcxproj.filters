@@ -1,0 +1,1138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Camera">
+      <UniqueIdentifier>{06c2e2b0-33bf-43c2-a3a5-ba06cb6d563e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision">
+      <UniqueIdentifier>{e1a4194a-8c46-4b90-899d-2a0b888a0ee6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{5b35149f-f175-46e7-b36b-5b3d915370cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Debug System">
+      <UniqueIdentifier>{526f09cf-79b9-42fd-b763-cf2c050fad8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Font">
+      <UniqueIdentifier>{752d2cf4-c086-47a4-800b-6a9eff539763}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Objects">
+      <UniqueIdentifier>{274c8fd2-8a3a-4521-8d16-0ac112285e0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Objects\Enemy">
+      <UniqueIdentifier>{63975bbc-5a83-4d3d-9169-af22c9f7bbf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Objects\Bullet">
+      <UniqueIdentifier>{0b33639c-f562-4d11-939e-33cf288bf8b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Objects\Tests">
+      <UniqueIdentifier>{f427b97a-2c51-4b03-8893-b01fec9d71c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Objects\Weapon States">
+      <UniqueIdentifier>{1819761a-6168-4467-a376-209ab46671e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Objects\Scene">
+      <UniqueIdentifier>{22cf414d-c6ab-4e44-a4f4-382cbd244482}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Input">
+      <UniqueIdentifier>{b2d874dd-ba01-46d5-8c84-d0c09aa602fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mesh">
+      <UniqueIdentifier>{1b34b77f-cf6f-44ca-bf7a-ac8584bbb264}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rendering">
+      <UniqueIdentifier>{48651439-83a8-4cee-9e67-02f07ed79a61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{db681784-a38e-480b-8274-827817f62811}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Shaders">
+      <UniqueIdentifier>{78b26b3f-905d-43fe-8dde-034775ff7dd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Sound">
+      <UniqueIdentifier>{18cb9b22-cc69-4ba8-969f-31483408836b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound">
+      <UniqueIdentifier>{e5564055-5ee7-42df-91cd-f47a492cebfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound\Resources">
+      <UniqueIdentifier>{ac56a4c6-a6e1-4e3b-bd5a-6dad2b6636af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound\Resources\SoundIO">
+      <UniqueIdentifier>{5b87f736-1009-4ba2-a4d6-d0cc2914faba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound\Resources\AK">
+      <UniqueIdentifier>{12d26c80-04af-4ecf-ad0a-f23d0474b789}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound\Resources\samples">
+      <UniqueIdentifier>{f375ce2f-b507-4444-8204-e2623fce9517}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound\Resources\samples\BankFiles">
+      <UniqueIdentifier>{0949a2e3-5871-4838-b841-e38a079a9acb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound\Resources\Debug%28StaticCRT%29">
+      <UniqueIdentifier>{b2dc3b37-c236-4a68-8af3-82cbdeef4d3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound\Resources\Release%28StaticCRT%29">
+      <UniqueIdentifier>{054da97a-3496-4371-b504-2e905f3ec495}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States">
+      <UniqueIdentifier>{30bdb745-0af6-4154-95c9-60c6ba68c5e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LuaEngine">
+      <UniqueIdentifier>{29f943f8-4897-4128-bae7-0fa807cbcc67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LuaEngine\Libraries">
+      <UniqueIdentifier>{48600c0a-958e-43cc-a76d-3c319e86ba8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LuaEngine\Libraries\Lib">
+      <UniqueIdentifier>{a870377c-7047-42d5-bd4f-c206fcb55376}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LuaEngine\Libraries\Include">
+      <UniqueIdentifier>{00e65319-40a5-40be-bfb8-b9c9d6eef23d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event System">
+      <UniqueIdentifier>{e53f7532-709a-4400-9f98-f5b5f80ec6f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI System">
+      <UniqueIdentifier>{853ca1ee-c9fa-43b4-a884-aee270e09927}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI System\Boss">
+      <UniqueIdentifier>{4d0196a1-12e1-440d-9067-c5afecaeb8fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI System\CoopAI">
+      <UniqueIdentifier>{b46d9959-3901-4978-b619-52aa650c8ac7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Spacial Tree">
+      <UniqueIdentifier>{e7746071-8f3d-4792-8731-5bbff019dee0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FX">
+      <UniqueIdentifier>{5c08ce61-84fb-4aa7-aef4-03d55cba046d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TinyXML">
+      <UniqueIdentifier>{1bf0dede-0dd4-4167-8abc-4241a7ac905e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Camera\Camera.cpp">
+      <Filter>Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision\CAABB.cpp">
+      <Filter>Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision\CBaseBV.cpp">
+      <Filter>Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision\CCapsule.cpp">
+      <Filter>Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision\CCollisionResponse.cpp">
+      <Filter>Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision\CCollisionTests.cpp">
+      <Filter>Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision\COBB.cpp">
+      <Filter>Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision\CSphere.cpp">
+      <Filter>Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\CConfigLoader.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\CGame.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\WinMain.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug System\DebugSystem.cpp">
+      <Filter>Debug System</Filter>
+    </ClCompile>
+    <ClCompile Include="Font\CBitMapFont.cpp">
+      <Filter>Font</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Barron.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CAudioTrigger.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CBarrel.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CBase.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CButtonGui.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CCharacter.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CClaire.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CCrate.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CDebris.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CExplosion.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CGoal.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CGravWell.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CGui.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CHUD.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CMerge.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CMotion.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CMotionFactory.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CMotorcycle.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CObjectFactory.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CObjectManager.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CParticleTrigger.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CPickUps.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CPlayer.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CSceneObject.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CSpawner.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CSplit.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\CTrigger.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\layoutImporter.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\motionImporter.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Enemy\CAssaulter.cpp">
+      <Filter>Game Objects\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Enemy\CEnemy.cpp">
+      <Filter>Game Objects\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Enemy\CHelios.cpp">
+      <Filter>Game Objects\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Enemy\CStriker.cpp">
+      <Filter>Game Objects\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Enemy\CUltimus.cpp">
+      <Filter>Game Objects\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Bullet\CChargedLaser.cpp">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Bullet\CFizzle.cpp">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Bullet\CFlamethrowerBullet.cpp">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Bullet\CLaserBullet.cpp">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Bullet\CLightningBullet.cpp">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Bullet\CMachineGunBullet.cpp">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Bullet\CRocketBullet.cpp">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Bullet\CShotgunBullet.cpp">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Bullet\CSmartLaserBullet.cpp">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Tests\CBoxTest.cpp">
+      <Filter>Game Objects\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Tests\CSphereTest.cpp">
+      <Filter>Game Objects\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Weapon States\CFlamethrowerState.cpp">
+      <Filter>Game Objects\Weapon States</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Weapon States\CLightningGunState.cpp">
+      <Filter>Game Objects\Weapon States</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Weapon States\CMachineGunState.cpp">
+      <Filter>Game Objects\Weapon States</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Weapon States\CRocketState.cpp">
+      <Filter>Game Objects\Weapon States</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Weapon States\CShotgunState.cpp">
+      <Filter>Game Objects\Weapon States</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Scene\CFlag.cpp">
+      <Filter>Game Objects\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Scene\CGround.cpp">
+      <Filter>Game Objects\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Scene\CJumpPad.cpp">
+      <Filter>Game Objects\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Scene\CPlatform.cpp">
+      <Filter>Game Objects\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Objects\Scene\CWall.cpp">
+      <Filter>Game Objects\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Input\CInput.cpp">
+      <Filter>Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh\animation.cpp">
+      <Filter>Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh\CMesh.cpp">
+      <Filter>Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh\CModel.cpp">
+      <Filter>Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh\CModelManager.cpp">
+      <Filter>Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh\modelImporter.cpp">
+      <Filter>Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Rendering\CDirect3D.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Rendering\CFrame.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Rendering\CRenderContext.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Rendering\CRenderContextManager.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Rendering\CRenderer.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Rendering\CRenderSet.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Rendering\CRenderSetSorted.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Rendering\CRenderShape.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Rendering\CRenderStatic.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Rendering\CShaderManager.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Rendering\CTextureManager.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Rendering\Vertex.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound\WwiseManager.cpp">
+      <Filter>Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound\WWise\SoundIO\AkDefaultIOHookBlocking.cpp">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound\WWise\SoundIO\AkDefaultIOHookDeferred.cpp">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound\WWise\SoundIO\AkDefaultLowLevelIODispatcher.cpp">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound\WWise\SoundIO\AkFileLocationBase.cpp">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound\WWise\SoundIO\AkFilePackage.cpp">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound\WWise\SoundIO\AkFilePackageLUT.cpp">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound\WWise\SoundIO\AkSoundEngineDLL.cpp">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound\WWise\SoundIO\AlignedPtr.cpp">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CBeginningState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CCharacterSelectionState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CControlOptionState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CCreditState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CGameOverState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CGameplayOptionState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CGameState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CHighScoreState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CHowToState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CIntroState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CLoadState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CMainMenuState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\COptionState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CPauseState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CSoundOptionState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CStateMachine.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CStatsState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CVideoOptionState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="States\CWinState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaEngine\CLuaEngine.cpp">
+      <Filter>LuaEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="Event System\CEventSystem.cpp">
+      <Filter>Event System</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CAIStateMachine.cpp">
+      <Filter>AI System</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CArrivalState.cpp">
+      <Filter>AI System</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CDeathState.cpp">
+      <Filter>AI System</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CFlyState.cpp">
+      <Filter>AI System</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CIdleState.cpp">
+      <Filter>AI System</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CJumpState.cpp">
+      <Filter>AI System</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CNavigateState.cpp">
+      <Filter>AI System</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CRunState.cpp">
+      <Filter>AI System</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CSelectState.cpp">
+      <Filter>AI System</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CShootState.cpp">
+      <Filter>AI System</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\Boss\PhaseOne.cpp">
+      <Filter>AI System\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\Boss\PhaseThree.cpp">
+      <Filter>AI System\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\Boss\PhaseTwo.cpp">
+      <Filter>AI System\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CoopAI\CCoopDash.cpp">
+      <Filter>AI System\CoopAI</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CoopAI\CCoopDodge.cpp">
+      <Filter>AI System\CoopAI</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CoopAI\CCoopJump.cpp">
+      <Filter>AI System\CoopAI</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CoopAI\CCoopRun.cpp">
+      <Filter>AI System\CoopAI</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CoopAI\CCoopSelect.cpp">
+      <Filter>AI System\CoopAI</Filter>
+    </ClCompile>
+    <ClCompile Include="AI System\CoopAI\CCoopShoot.cpp">
+      <Filter>AI System\CoopAI</Filter>
+    </ClCompile>
+    <ClCompile Include="Spacial Tree\CBVH.cpp">
+      <Filter>Spacial Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Spacial Tree\CHGrid.cpp">
+      <Filter>Spacial Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="FX\CEffect.cpp">
+      <Filter>FX</Filter>
+    </ClCompile>
+    <ClCompile Include="FX\CEmitter.cpp">
+      <Filter>FX</Filter>
+    </ClCompile>
+    <ClCompile Include="FX\CFXManager.cpp">
+      <Filter>FX</Filter>
+    </ClCompile>
+    <ClCompile Include="FX\CParticleEffect.cpp">
+      <Filter>FX</Filter>
+    </ClCompile>
+    <ClCompile Include="FX\CParticleManager.cpp">
+      <Filter>FX</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyXML\tinystr.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyXML\tinyxml.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyXML\tinyxmlerror.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyXML\tinyxmlparser.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Camera\Camera.h">
+      <Filter>Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision\CAABB.h">
+      <Filter>Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision\CBaseBV.h">
+      <Filter>Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision\CCapsule.h">
+      <Filter>Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision\CCollisionResponse.h">
+      <Filter>Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision\CCollisionTests.h">
+      <Filter>Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision\COBB.h">
+      <Filter>Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision\CollisionObject.h">
+      <Filter>Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision\CSphere.h">
+      <Filter>Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\CConfigLoader.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\CGame.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Util.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug System\DebugSystem.h">
+      <Filter>Debug System</Filter>
+    </ClInclude>
+    <ClInclude Include="Font\CBitMapFont.h">
+      <Filter>Font</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Barron.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CAudioTrigger.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CBarrel.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CBase.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CButtonGui.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CCharacter.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CClaire.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CCrate.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CDebris.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CExplosion.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CGoal.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CGravWell.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CGui.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CHUD.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CMerge.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CMotion.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CMotionFactory.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CMotorcycle.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CObjectFactory.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CObjectFactory.hpp">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CObjectManager.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CParticleTrigger.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CPickUps.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CPlayer.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CSceneObject.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CSpawner.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CSplit.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\CTrigger.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\IBaseInterface.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\layoutImporter.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\motionImporter.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Enemy\CAssaulter.h">
+      <Filter>Game Objects\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Enemy\CEnemy.h">
+      <Filter>Game Objects\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Enemy\CHelios.h">
+      <Filter>Game Objects\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Enemy\CStriker.h">
+      <Filter>Game Objects\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Enemy\CUltimus.h">
+      <Filter>Game Objects\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Bullet\CChargedLaser.h">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Bullet\CFizzle.h">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Bullet\CFlamethrowerBullet.h">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Bullet\CLaserBullet.h">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Bullet\CLightningBullet.h">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Bullet\CMachineGunBullet.h">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Bullet\CRocketBullet.h">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Bullet\CShotgunBullet.h">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Bullet\CSmartLaserBullet.h">
+      <Filter>Game Objects\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Tests\CBoxTest.h">
+      <Filter>Game Objects\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Tests\CSphereTest.h">
+      <Filter>Game Objects\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Weapon States\CFlamethrowerState.h">
+      <Filter>Game Objects\Weapon States</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Weapon States\CLightningGunState.h">
+      <Filter>Game Objects\Weapon States</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Weapon States\CMachineGunState.h">
+      <Filter>Game Objects\Weapon States</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Weapon States\CRocketState.h">
+      <Filter>Game Objects\Weapon States</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Weapon States\CShotgunState.h">
+      <Filter>Game Objects\Weapon States</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Weapon States\IBaseWeaponState.h">
+      <Filter>Game Objects\Weapon States</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Scene\CFlag.h">
+      <Filter>Game Objects\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Scene\CGround.h">
+      <Filter>Game Objects\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Scene\CJumpPad.h">
+      <Filter>Game Objects\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Scene\CPlatform.h">
+      <Filter>Game Objects\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Objects\Scene\CWall.h">
+      <Filter>Game Objects\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Input\CInput.h">
+      <Filter>Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh\animation.h">
+      <Filter>Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh\CMesh.h">
+      <Filter>Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh\CModel.h">
+      <Filter>Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh\CModelManager.h">
+      <Filter>Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh\modelImporter.h">
+      <Filter>Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Rendering\CDirect3D.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Rendering\CFrame.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Rendering\CRenderContext.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Rendering\CRenderContextManager.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Rendering\CRenderer.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Rendering\CRenderNode.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Rendering\CRenderSet.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Rendering\CRenderSetSorted.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Rendering\CRenderShape.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Rendering\CRenderStatic.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Rendering\CShaderManager.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Rendering\CTextureManager.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Rendering\Vertex.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Resources\Sound\Wwise_IDs.h">
+      <Filter>Resources\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WwiseManager.h">
+      <Filter>Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\SoundIO\AkCommunication.h">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\SoundIO\akdefaultiohookblocking.h">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\SoundIO\AkDefaultIOHookDeferred.h">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\SoundIO\AkDefaultLowLevelIODispatcher.h">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\SoundIO\AkFileHelpers.h">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\SoundIO\AkFileLocationBase.h">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\SoundIO\AkFilePackage.h">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\SoundIO\AkFilePackageLowLevelIO.h">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\SoundIO\akfilepackagelowlevelioblocking.h">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\SoundIO\AkFilePackageLowLevelIODeferred.h">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\SoundIO\AkFilePackageLUT.h">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\SoundIO\AkSoundEngineDLL.h">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\SoundIO\AkSoundEngineExports.h">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\SoundIO\AlignedPtr.h">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound\WWise\samples\Wwise_IDs.h">
+      <Filter>Sound\Resources\samples</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CBeginningState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CCharacterSelectionState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CControlOptionState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CCreditState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CGameOverState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CGameplayOptionState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CGameState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CHighScoreState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CHowToState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CIntroState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CLoadState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CMainMenuState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\COptionState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CPauseState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CSoundOptionState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CStateMachine.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CStatsState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CVideoOptionState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\CWinState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="States\IGameState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaEngine\CLuaEngine.h">
+      <Filter>LuaEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="Event System\CEvent.h">
+      <Filter>Event System</Filter>
+    </ClInclude>
+    <ClInclude Include="Event System\CEventSystem.h">
+      <Filter>Event System</Filter>
+    </ClInclude>
+    <ClInclude Include="Event System\IListener.h">
+      <Filter>Event System</Filter>
+    </ClInclude>
+    <ClInclude Include="AI System\CAIStateMachine.h">
+      <Filter>AI System</Filter>
+    </ClInclude>
+    <ClInclude Include="AI System\CState.h">
+      <Filter>AI System</Filter>
+    </ClInclude>
+    <ClInclude Include="Spacial Tree\CBVH.h">
+      <Filter>Spacial Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Spacial Tree\CHGrid.h">
+      <Filter>Spacial Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribAccelbyLife.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribBox.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribColorByLife.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribEmitterInitLoc.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribInitAcc.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribInitRot.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribInitRotRate.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribInitVel.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribLifetime.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribLine.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribOrbit.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribRotbyLife.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribSize.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribSizeByLife.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribSpawn.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribSphere.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CAttribVelbyLife.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CBaseEmitterAttribute.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CEffect.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CEmitter.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CFXManager.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CParticleEffect.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\CParticleManager.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="FX\Helpers.h">
+      <Filter>FX</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyXML\tinystr.h">
+      <Filter>TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyXML\tinyxml.h">
+      <Filter>TinyXML</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exporterTest\ChesseyRodriguezShape.NNanim">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="Resources\exporterTest\ChesseyRodriguezShape.NNmesh">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="Resources\exporterTest\ChesseyRodriguezShape.NNskin">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="Font\TestFont2.bmf">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="Font\TestFont3.bmf">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="Sound\WWise\SoundIO\AkFilePackageLowLevelIO.inl">
+      <Filter>Sound\Resources\SoundIO</Filter>
+    </None>
+    <None Include="Sound\WWise\samples\BankFiles\Init.bnk">
+      <Filter>Sound\Resources\samples\BankFiles</Filter>
+    </None>
+    <None Include="Sound\WWise\samples\BankFiles\SoundBank.bnk">
+      <Filter>Sound\Resources\samples\BankFiles</Filter>
+    </None>
+    <None Include="LuaEngine\test.lua">
+      <Filter>LuaEngine</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Font\TestFont2.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Font\TestFont3.png">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Resources\Shaders\Depth.fx">
+      <Filter>Resources\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\Flat.fx">
+      <Filter>Resources\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\Gamma.vsh">
+      <Filter>Resources\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\HUDParticle.fx">
+      <Filter>Resources\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\Particle.fx">
+      <Filter>Resources\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\ParticleBloom.fx">
+      <Filter>Resources\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\ShadowMap.fx">
+      <Filter>Resources\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\SkinnedTexturedLit.fx">
+      <Filter>Resources\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\TexturedLit.fx">
+      <Filter>Resources\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\TexturedLitUVAtlas.fx">
+      <Filter>Resources\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\TexturedLitUVScroll.fx">
+      <Filter>Resources\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\TexturedWVP.fx">
+      <Filter>Resources\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\TransSkinnedTexturedLit.fx">
+      <Filter>Resources\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\TransTexturedLit.fx">
+      <Filter>Resources\Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Sound\WWise\samples\BankFiles\Init.txt">
+      <Filter>Sound\Resources\samples\BankFiles</Filter>
+    </Text>
+    <Text Include="Sound\WWise\samples\BankFiles\SoundBank.txt">
+      <Filter>Sound\Resources\samples\BankFiles</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="Sound\WWise\samples\BankFiles\SoundbanksInfo.xml">
+      <Filter>Sound\Resources\samples\BankFiles</Filter>
+    </Xml>
+  </ItemGroup>
+</Project>

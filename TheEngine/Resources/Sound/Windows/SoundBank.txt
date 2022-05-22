@@ -1,0 +1,416 @@
+Event	ID	Name			Wwise Object Path	Notes
+	24462791	Play_FX_Shotgun_Ultimate			\Default Work Unit\Play_FX_Shotgun_Ultimate	
+	45853129	Play_FX_Menu_Down			\Default Work Unit\Play_FX_Menu_Down	
+	87875935	Play_DX_Claire_FlameThrowerUlt			\Default Work Unit\Play_DX_Claire_FlameThrowerUlt	
+	123743207	Play_FX_LightningGun			\Default Work Unit\Play_FX_LightningGun	
+	169939719	Play_FX_Shotgun_Alt			\Default Work Unit\Play_FX_Shotgun_Alt	
+	175792121	Stop_MX_N2_GameOver			\Default Work Unit\Stop_MX_N2_GameOver	
+	227841718	Play_FX_Menu_GoBack			\Default Work Unit\Play_FX_Menu_GoBack	
+	342625831	Play_DX_Barron_Land			\Default Work Unit\Play_DX_Barron_Land	
+	349741893	Play_FX_CrateBreak			\Default Work Unit\Play_FX_CrateBreak	
+	406563369	Play_SFX_Pickup_RocketLauncher			\Default Work Unit\Play_SFX_Pickup_RocketLauncher	
+	452547817	Stop_All			\Default Work Unit\Stop_All	
+	470030351	Play_FX_Gameplay_Ambience_Loop			\Default Work Unit\Play_FX_Gameplay_Ambience_Loop	
+	559103713	Play_FX_Boss_SmallLaser			\Default Work Unit\Play_FX_Boss_SmallLaser	
+	562868035	Play_FX_LightningGun_Ult			\Default Work Unit\Play_FX_LightningGun_Ult	
+	647125368	Play_FX_Barron_Death			\Default Work Unit\Play_FX_Barron_Death	
+	661182036	Play_FX_MachineGun			\Default Work Unit\Play_FX_MachineGun	
+	849238761	Play_DX_Announcer_TakenTheLead_PlayerOne			\Default Work Unit\Play_DX_Announcer_TakenTheLead_PlayerOne	
+	1065365657	Play_DX_Barron_Positive_Feedback			\Default Work Unit\Play_DX_Barron_Positive_Feedback	
+	1083416265	Play_DX_Announcer_LeadBaron			\Default Work Unit\Play_DX_Announcer_LeadBaron	
+	1145858318	Play_FX_Menu_Up			\Default Work Unit\Play_FX_Menu_Up	
+	1166049015	Play_DX_Barron_ShotgunUlt			\Default Work Unit\Play_DX_Barron_ShotgunUlt	
+	1202075466	Play_DX_Claire_Death			\Default Work Unit\Play_DX_Claire_Death	
+	1216722717	Play_DX_Announcer_PlayerTwoEntered			\Default Work Unit\Play_DX_Announcer_PlayerTwoEntered	
+	1269812071	Play_DX_Announcer_TakenTheLead_PlayerTwo			\Default Work Unit\Play_DX_Announcer_TakenTheLead_PlayerTwo	
+	1305772428	Play_DX_Announcer_Killed_PlayerTwo			\Default Work Unit\Play_DX_Announcer_Killed_PlayerTwo	
+	1330546596	Play_DX_Announcer_SplitUp			\Default Work Unit\Play_DX_Announcer_SplitUp	
+	1355870269	Play_DX_Barron_LightningGunUlt			\Default Work Unit\Play_DX_Barron_LightningGunUlt	
+	1375037483	Play_FX_Weebos_Jump			\Default Work Unit\Play_FX_Weebos_Jump	
+	1375266264	Play_DX_Claire_Jump			\Default Work Unit\Play_DX_Claire_Jump	
+	1417774391	Play_DX_Announcer_Regroup			\Default Work Unit\Play_DX_Announcer_Regroup	
+	1418907401	Play_DX_Claire_RocketLauncherUlt			\Default Work Unit\Play_DX_Claire_RocketLauncherUlt	
+	1443235840	Play_FX_Boss_CannonShot			\Default Work Unit\Play_FX_Boss_CannonShot	
+	1503005329	Play_DX_Announcer_Lightninggun			\Default Work Unit\Play_DX_Announcer_Lightninggun	
+	1528739067	Stop_FX_Menu_Ambience_Loops			\Default Work Unit\Stop_FX_Menu_Ambience_Loops	
+	1574970936	Play_FX_Boss_Charge_LargeLaser			\Default Work Unit\Play_FX_Boss_Charge_LargeLaser	
+	1604865015	Play_MX_FanFare_Music			\Default Work Unit\Play_MX_FanFare_Music	
+	1676809638	Stop_FX_Boss_Spawn_Loops			\Default Work Unit\Stop_FX_Boss_Spawn_Loops	
+	1707012355	Stop_MX_Menu_Music			\Default Work Unit\Stop_MX_Menu_Music	
+	1728905642	Play_DX_Announcer_Killed_PlayerOne			\Default Work Unit\Play_DX_Announcer_Killed_PlayerOne	
+	1784519877	Play_FX_Menu_Pause			\Default Work Unit\Play_FX_Menu_Pause	
+	1816475323	Play_DX_Barron_FlamethrowerUlt			\Default Work Unit\Play_DX_Barron_FlamethrowerUlt	
+	1842680187	Play_DX_Claire_ShotgunUlt			\Default Work Unit\Play_DX_Claire_ShotgunUlt	
+	1864334089	Play_DX_Claire_LightningGunUlt			\Default Work Unit\Play_DX_Claire_LightningGunUlt	
+	1898574043	Play_FX_Boss_Death			\Default Work Unit\Play_FX_Boss_Death	
+	1933981971	Play_FX_Weebos_Gunshot			\Default Work Unit\Play_FX_Weebos_Gunshot	
+	1940436941	Play_FX_Weebos_Hits			\Default Work Unit\Play_FX_Weebos_Hits	
+	1956092026	Play_FX_Flamethrower_Loop			\Default Work Unit\Play_FX_Flamethrower_Loop	
+	1960176681	Play_FX_Weapons_RocketLauncher			\Default Work Unit\Play_FX_Weapons_RocketLauncher	
+	1967207054	Play_DX_Announcer_KillingSpree			\Default Work Unit\Play_DX_Announcer_KillingSpree	
+	1983869205	Play_FX_Menu_Select			\Default Work Unit\Play_FX_Menu_Select	
+	2024796177	Play_DX_Announcer_RocketLauncher			\Default Work Unit\Play_DX_Announcer_RocketLauncher	
+	2039140947	Play_DX_Announcer_Flamethrower			\Default Work Unit\Play_DX_Announcer_Flamethrower	
+	2137184427	Play_FX_BarrelShot			\Default Work Unit\Play_FX_BarrelShot	
+	2159384116	Play_FX_Land			\Default Work Unit\Play_FX_Land	
+	2161780911	Stop_FX_Weebos_Helicopter_Loop_01			\Default Work Unit\Stop_FX_Weebos_Helicopter_Loop_01	
+	2182950567	Play_DX_Announcer_GoGoGo			\Default Work Unit\Play_DX_Announcer_GoGoGo	
+	2227803108	Play_DX_Announcer_UltimateBaron			\Default Work Unit\Play_DX_Announcer_UltimateBaron	
+	2236535292	Play_FX_Boss_Charge_SmallLaser			\Default Work Unit\Play_FX_Boss_Charge_SmallLaser	
+	2238234883	Play_FX_Typing_Loop			\Default Work Unit\Play_FX_Typing_Loop	
+	2327180827	Play_SFX_Pickup_Flamethrower			\Default Work Unit\Play_SFX_Pickup_Flamethrower	
+	2352103008	Stop_MX_Level_Music			\Default Work Unit\Stop_MX_Level_Music	
+	2360340909	Play_SFX_Pickup_ShotGun			\Default Work Unit\Play_SFX_Pickup_ShotGun	
+	2390653319	Play_FX_Weebos_Noise			\Default Work Unit\Play_FX_Weebos_Noise	
+	2425670680	Play_FX_LightningGun_Alternate			\Default Work Unit\Play_FX_LightningGun_Alternate	
+	2428751621	Stop_MX_FanFare_Music			\Default Work Unit\Stop_MX_FanFare_Music	
+	2433597979	Play_DX_Claire_Hit			\Default Work Unit\Play_DX_Claire_Hit	
+	2495216557	Play_FX_Weebos_Helicopter_Loop			\Default Work Unit\Play_FX_Weebos_Helicopter_Loop	
+	2567088412	Play_FX_Boss_Spawn_Loops			\Default Work Unit\Play_FX_Boss_Spawn_Loops	
+	2592850773	Play_MX_Menu_Music			\Default Work Unit\Play_MX_Menu_Music	
+	2623488701	Play_DX_Claire_Positive_Feedback			\Default Work Unit\Play_DX_Claire_Positive_Feedback	
+	2671510840	Stop_FX_Flamethrower_Loop			\Default Work Unit\Stop_FX_Flamethrower_Loop	
+	2695084122	Stop_SFX_Flamethrower_Alt			\Default Work Unit\Stop_SFX_Flamethrower_Alt	
+	2757410987	Play_FX_Weebos_Death			\Default Work Unit\Play_FX_Weebos_Death	
+	2757980855	Play_FX_Shotgun			\Default Work Unit\Play_FX_Shotgun	
+	2805478185	Play_FX_Boss_LargeLaser			\Default Work Unit\Play_FX_Boss_LargeLaser	
+	2808006547	Play_DX_Claire_Land			\Default Work Unit\Play_DX_Claire_Land	
+	2811548465	Stop_FX_Gameplay_Ambience_Loop			\Default Work Unit\Stop_FX_Gameplay_Ambience_Loop	
+	2813762040	Stop_FX_ScoreTicker_Loop			\Default Work Unit\Stop_FX_ScoreTicker_Loop	
+	2829422278	Play_SFX_Pickup_MachineGun			\Default Work Unit\Play_SFX_Pickup_MachineGun	
+	2832309102	Play_MX_Level_Music			\Default Work Unit\Play_MX_Level_Music	
+	2897518834	Play_DX_Announcer_KillEverything			\Default Work Unit\Play_DX_Announcer_KillEverything	
+	2991982888	Play_FX_Flamethrower_Ultimate_Shot			\Default Work Unit\Play_FX_Flamethrower_Ultimate_Shot	
+	3052605062	Stop_FX_Flamethrower_Ultimate_Shot			\Default Work Unit\Stop_FX_Flamethrower_Ultimate_Shot	
+	3097558339	Play_SFX_ScoreTicker_Loop			\Default Work Unit\Play_SFX_ScoreTicker_Loop	
+	3151273779	Play_DX_Announcer_LeadClaire			\Default Work Unit\Play_DX_Announcer_LeadClaire	
+	3237461567	Play_FX_Player_Dash			\Default Work Unit\Play_FX_Player_Dash	
+	3238750648	Play_DX_Announcer_UltimateFire			\Default Work Unit\Play_DX_Announcer_UltimateFire	
+	3312220043	Play_MX_N2_GameOver			\Default Work Unit\Play_MX_N2_GameOver	
+	3391117313	Play_FX_Menu_Ambience_Loops			\Default Work Unit\Play_FX_Menu_Ambience_Loops	
+	3428035376	Play_FX_Footsteps			\Default Work Unit\Play_FX_Footsteps	
+	3561728334	Stop_FX_LightningGun_Alternate			\Default Work Unit\Stop_FX_LightningGun_Alternate	
+	3592430441	Play_SFX_Pickup_LightningGun			\Default Work Unit\Play_SFX_Pickup_LightningGun	
+	3617747844	Play_FX_RocketLauncher_Alternate			\Default Work Unit\Play_FX_RocketLauncher_Alternate	
+	3679762312	Resume_All			\Default Work Unit\Resume_All	
+	3710163774	Play_FX_Weapon_RocketLauncher_Ult			\Default Work Unit\Play_FX_Weapon_RocketLauncher_Ult	
+	3854475801	Play_FX_Barron_Hit			\Default Work Unit\Play_FX_Barron_Hit	
+	3864097025	Pause_All			\Default Work Unit\Pause_All	
+	3888878368	Play_DX_Announcer_UltimateClaire			\Default Work Unit\Play_DX_Announcer_UltimateClaire	
+	3895427854	Stop_FX_RocketLauncher_Alternate			\Default Work Unit\Stop_FX_RocketLauncher_Alternate	
+	3947236133	Play_DX_Announcer_Shotgun			\Default Work Unit\Play_DX_Announcer_Shotgun	
+	3975385512	Play_SFX_Flamethrower_Alt			\Default Work Unit\Play_SFX_Flamethrower_Alt	
+	4080969030	Play_FX_Barron_Jump			\Default Work Unit\Play_FX_Barron_Jump	
+	4098680805	Stop_FX_Typing_Loop			\Default Work Unit\Stop_FX_Typing_Loop	
+	4123299965	Play_DX_Barron_RocketLauncherUlt			\Default Work Unit\Play_DX_Barron_RocketLauncherUlt	
+	4129359177	Play_FX_Weebos_Helicopter_Loop_01			\Default Work Unit\Play_FX_Weebos_Helicopter_Loop_01	
+	4152628445	Play_FX_Bullet_Hit_Ground			\Default Work Unit\Play_FX_Bullet_Hit_Ground	
+	4155369674	Play_FX_Weapons_RocketLauncher_Explo			\Default Work Unit\Play_FX_Weapons_RocketLauncher_Explo	
+	4257938619	Stop_FX_Weebos_Helicopter_Loop			\Default Work Unit\Stop_FX_Weebos_Helicopter_Loop	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Ambience	
+
+Switch	ID	Name	Switch Group			Notes
+	219304270	Jungle	Ambience			
+	3412057565	Train	Ambience			
+	3888786832	City	Ambience			
+	4075332698	Beach	Ambience			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	532405051	New Motion Bus			\Default Work Unit\Master Motion Bus\New Motion Bus	
+	730541037	Master Motion Bus			\Default Work Unit\Master Motion Bus	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	19702276	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Seagulls\Silence\Silence	
+	31286570	Silence	Silence		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Positive_Feedback\Silence\Silence	
+	56380172	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Leaves\FX_Ambience_Leaves\Silence\Silence	
+	76874000	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Stingers_Birds\FX_Ambience_Stingers_Birds\Silence\Silence	
+	228193202	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Seagulls\FX_Ambience_Seagulls\Silence\Silence	
+	279245501	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_Car\Silence\Silence	
+	358793848	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Menu_Ambience\FX_Ambience_Stingers_Beeps\FX_Ambience_Stingers_Beeps\Silence\Silence	
+	368913981	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Menu_Ambience\FX_Ambience_Stingers_Beeps\Silence\Silence	
+	382286111	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\FX_Creaks\Silence\Silence	
+	490958000	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_RustleNewspaper\FX_Ambience_RustleNewspaper\Silence\Silence	
+	587842007	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_Stingers_Doves\FX_Ambience_Stingers_Doves\Silence\Silence	
+	671450027	Silence	Silence		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Positive_Feedback\Silence\Silence	
+	676223087	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_RustleNewspaper\Silence\Silence	
+	701156489	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_Car\FX_Ambience_Car\Silence\Silence	
+	736067780	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Leaves\Silence\Silence	
+	751639316	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Waves\FX_Ambience_Waves\Silence\Silence	
+	875849542	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Waves\Silence\Silence	
+	902398042	Wwise Motion Generator	Wwise Motion Generator		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\Test\Wwise Motion Generator	
+	935924944	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\FX_Wind\Silence\Silence	
+	965463714	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Stingers_Birds\Silence\Silence	
+	1069368691	Silence	Silence		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_Stingers_Doves\Silence\Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	3557028	FX_Equipment_Movement_06	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_equipment_movement_06_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Equipment\FX_Equipment_Movement_06		8716
+	10969651	FX_Weebos_Death02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_death02_947f770c_fdc28311.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Boss\FX_Boss_Death\FX_Weebos_Death02		27379
+	14302490	FX_Footstep_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_footstep_03_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Footsteps\FX_Footstep_03		5739
+	15247318	FX_Flamethrower_Ultimate_Shot	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_flamethrower_ultimate_shot_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Flame Thrower\Flame Thrower Ult\FX_Flamethrower_Ultimate_Shot		33905
+	17191213	FX_Footstep_08	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_footstep_08_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Footsteps\FX_Footstep_08		5627
+	19972359	FX_Equipment_Movement_05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_equipment_movement_05_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Equipment\FX_Equipment_Movement_05		9628
+	20797850	DX_Announcer_UltimateBaron_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_ultimatebaron_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_UltimateBaron_01		22318
+	22346358	SFX_Bullet_Hit_Groun_05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_bullet_hit_groun_05_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Misc\FX_Bullet_Hit_Ground\SFX_Bullet_Hit_Groun_05		8197
+	57804701	DX_Baron_Death_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_death_02_77d70297.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Baron_Death\DX_Baron_Death_02		24127
+	57890722	FX_Flamethrower_Loop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_flamethrower_loop_947f770d_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Flame Thrower\Flame Thrower Fire\FX_Flamethrower_Loop		33576
+	61287624	FX_Land_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_land_02_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Land\FX_Land_02		6711
+	69862370	DX_Barron_Land_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_land_04_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Land\DX_Barron_Land_04		4010
+	72084467	FX_Menu_Down	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_menu_down_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\Menu Navigation\FX_Menu_Down		2391
+	76561608	MX_N2_FanFare	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\mx_n2_fanfare_8e577417.ogg		\Interactive Music Hierarchy\Default Work Unit\MX_FanFare_Music\MX_N2_FanFare		2214354
+	80931331	SFX_Pickup_RocketLauncher	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_pickup_rocketlauncher_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\Weapon Pickups\SFX_Pickup_RocketLauncher		13668
+	85474299	FX_Ambience_CarHorn_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_carhorn_01_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_Car\FX_Ambience_Car\FX_Ambience_CarHorn_01		24174
+	97724341	SFX_Pickup_MachineGun	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_pickup_machinegun_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\Weapon Pickups\SFX_Pickup_MachineGun		13152
+	98590330	Wind_Loop10	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\wind_loop10_77d70296.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\Wind_Loop10		44065
+	103071090	DX_Baron_Death_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_death_03_77d70297.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Baron_Death\DX_Baron_Death_03		25912
+	111832365	FX_Footstep_06	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_footstep_06_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Footsteps\FX_Footstep_06		5958
+	112352701	DX_Claire_Jump_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_jump_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Jump\DX_Claire_Jump_01		3567
+	123724836	DX_Barron_FlamethrowerUlt_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_flamethrowerult_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Ultimates\DX_Barron_FlamethrowerUlt\DX_Barron_FlamethrowerUlt_02		34225
+	132691798	FX_Ambience_Leaves_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_leaves_02_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Leaves\FX_Ambience_Leaves\FX_Ambience_Leaves_02		14222
+	135752741	FX_Equipment_Movement_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_equipment_movement_03_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Equipment\FX_Equipment_Movement_03		7459
+	141669454	Valve_MetalWheelTurn_Squeak1	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\valve_metalwheelturn_squeak1_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\FX_Creaks\FX_Creaks\Valve_MetalWheelTurn_Squeak1		26083
+	145616787	DX_Claire_Taunt_05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_taunt_05_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Positive_Feedback\DX_Claire_Taunt_05		10070
+	146104868	FX_Weapon_RocketLauncher_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weapon_rocketlauncher_02_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Rocket Launcher\FX_Weapons_RocketLauncher\FX_Weapon_RocketLauncher_02		17140
+	146378706	FX_Land_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_land_01_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Land\FX_Land_01		7383
+	146626178	DX_Barron_Land_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_land_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Land\DX_Barron_Land_02		2531
+	148380056	DX_Claire_Land_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_land_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Land\DX_Claire_Land_01		4981
+	148510087	Wind_Gust02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\wind_gust02_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\FX_Wind\FX_Wind\Wind_Gust02		30084
+	154127137	FX_Weebos_Noise_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_noise_03_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Noise\FX_Weebos_Noise_03		5219
+	157192555	SFX_Pickup_LightningGun	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_pickup_lightninggun_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\Weapon Pickups\SFX_Pickup_LightningGun		9473
+	160227759	DX_Claire_Jump_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_jump_04_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Jump\DX_Claire_Jump_04		4367
+	160732373	FX_Weebos_Death01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_death01_947f770c_fdc28311.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Boss\FX_Boss_Death\FX_Weebos_Death01		16620
+	170944016	FX_Footstep_09	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_footstep_09_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Footsteps\FX_Footstep_09		6806
+	177954852	FX_Ambience_Leaves_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_leaves_03_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Leaves\FX_Ambience_Leaves\FX_Ambience_Leaves_03		17674
+	178454136	FX_Weebos_Jump_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_jump_03_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Jump\FX_Weebos_Jump_03		7325
+	187910050	FX_Weapon_RocketLauncher_Ult_DropBombs	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weapon_rocketlauncher_ult_dropbombs_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Rocket Launcher Ult\FX_Weapon_RocketLauncher_Ult_DropBombs		68017
+	191663886	Creak_LargeMetalShip03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\creak_largemetalship03_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\FX_Creaks\FX_Creaks\Creak_LargeMetalShip03		31275
+	198714968	DX_Barron_LightningGunUlt_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_lightninggunult_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Ultimates\DX_Barron_LightningGunUlt\DX_Barron_LightningGunUlt_02		23653
+	198926986	DX_Baron_OhYeah_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_ohyeah_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Positive_Feedback\DX_Baron_OhYeah_01		14802
+	200946170	FX_Weebos_Death02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_death02_947f770c_7405aca7.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Death\FX_Weebos_Death02		27379
+	202619424	Explo_Small_09	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\explo_small_09_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Rocket Launcher\FX_Weapons_RocketLauncher_Explo\Explo_Small_09		13013
+	208253767	SFX_Bullet_Hit_Groun_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_bullet_hit_groun_03_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Misc\FX_Bullet_Hit_Ground\SFX_Bullet_Hit_Groun_03		8863
+	211982331	FX_Footstep_05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_footstep_05_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Footsteps\FX_Footstep_05		5934
+	225339210	FX_Ambience_Seagull_09	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_seagull_09_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Seagulls\FX_Ambience_Seagulls\FX_Ambience_Seagull_09		8196
+	226677010	DX_Barron_Jump_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_jump_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Jump\DX_Barron_Jump_02		4597
+	229115415	FX_Ambience_Seagull_08	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_seagull_08_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Seagulls\FX_Ambience_Seagulls\FX_Ambience_Seagull_08		9688
+	231070701	DX_Baron_LoveExplosions_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_loveexplosions_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Positive_Feedback\DX_Baron_LoveExplosions_01		34054
+	232448086	DX_Announcer_TakenTheLead_PlayerTwo	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_takenthelead_playertwo_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_TakenTheLead_PlayerTwo		34923
+	233695585	LightningGunUlt_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\lightninggunult_02_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Lightning Gun\FX_LightningGun_Ult\LightningGunUlt_02		11066
+	240410352	FX_Weebos_Death04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_death04_947f770c_fdc28311.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Boss\FX_Boss_Death\FX_Weebos_Death04		18702
+	245419012	FX_Weebos_Gunshot_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_gunshot_03_947f770c_8079cf26.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Gunshot\FX_Weebos_Gunshot_03		7441
+	248316940	FX_Weebos_Helicopter_Loop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_weebos_helicopter_loop_947f770d.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\FX_Weebos_Helicopter_Loop		56980
+	248996533	DX_Claire_Taunt_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_taunt_03_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Positive_Feedback\DX_Claire_Taunt_03		11134
+	257398816	SFX_Bullet_Hit_Groun_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_bullet_hit_groun_01_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Misc\FX_Bullet_Hit_Ground\SFX_Bullet_Hit_Groun_01		8807
+	266282919	FX_Flamethrower_Ultimate_Fire_Loop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_flamethrower_ultimate_fire_loop_947f770d_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Flame Thrower\Flame Thrower Ult\FX_Flamethrower_Ultimate_Fire_Loop		30198
+	271307484	SFX_Bullet_Hit_Groun_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_bullet_hit_groun_04_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Misc\FX_Bullet_Hit_Ground\SFX_Bullet_Hit_Groun_04		7973
+	274772393	FX_Weebos_Noise_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_noise_04_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Noise\FX_Weebos_Noise_04		7922
+	275396351	FX_BarrelShot	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_barrelshot_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Misc\FX_BarrelShot		19078
+	279438755	FX_Shotgun	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\shotgun_947f770c_17ecda44.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Shotgun\FX_Shotgun		19859
+	281746056	DX_Barron_ShotgunUlt_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_shotgunult_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Ultimates\DX_Barron_ShotgunUlt\DX_Barron_ShotgunUlt_01		20429
+	282053094	DX_Barron_Land_07	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_land_07_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Land\DX_Barron_Land_07		3210
+	282545002	DX_Claire_Taunt_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_taunt_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Positive_Feedback\DX_Claire_Taunt_01		15913
+	283610589	FX_Boss_Charge_LargeLaser	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_boss_charge_largelaser_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Boss\FX_Boss_Charge_LargeLaser		38814
+	294762060	DX_Claire_Hurt_06	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_hurt_06_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Hit\DX_Claire_Hurt_06		7845
+	299195624	DX_Baron_Hit_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_hit_04_77d70297.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Baron_Hit\DX_Baron_Hit_04		11541
+	299946634	FX_Footstep_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_footstep_01_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Footsteps\FX_Footstep_01		5940
+	301659989	DX_Claire_Taunt_08	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_taunt_08_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Positive_Feedback\DX_Claire_Taunt_08		20585
+	309421819	FX_LightningGun_ExplosionLoop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_lightninggun_explosionloop_947f770d_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Lightning Gun\FX_LightningGun_Alt\FX_LightningGun_ExplosionLoop		51811
+	310735779	SFX_Enemy_Robot_Hit_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_enemy_robot_hit_04_947f770c_abaabc11.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Hits\SFX_Enemy_Robot_Hit_04		6020
+	315408771	FX_ScoreTicker_Loop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_scoreticker_loop_77d70296.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_ScoreTicker_Loop		7075
+	316004784	FX_Menu_GoBack	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_menu_goback_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Menu_GoBack		4924
+	318446232	FX_Weapon_RocketLauncher_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weapon_rocketlauncher_04_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Rocket Launcher\FX_Weapons_RocketLauncher\FX_Weapon_RocketLauncher_04		16194
+	319259632	LightningGunUlt_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\lightninggunult_03_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Lightning Gun\FX_LightningGun_Ult\LightningGunUlt_03		10323
+	326563119	DX_Claire_Jump_05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_jump_05_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Jump\DX_Claire_Jump_05		4259
+	328251139	SFX_Flamethrower_Loop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_flamethrower_loop_947f770d_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Flame Thrower\Flame Thrower Alt\SFX_Flamethrower_Loop		30877
+	331040026	FX_Shotgun_Alt	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_shotgun_alt_947f770c_17ecda44.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Shotgun\FX_Shotgun_Alt		17579
+	334898036	FX_Ambience_RustleNewspaper_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_rustlenewspaper_01_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_RustleNewspaper\FX_Ambience_RustleNewspaper\FX_Ambience_RustleNewspaper_01		25668
+	335376796	DX_Claire_Hurt_05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_hurt_05_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Hit\DX_Claire_Hurt_05		7908
+	338033813	FX_Ambience_RustleNewspaper_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_rustlenewspaper_04_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_RustleNewspaper\FX_Ambience_RustleNewspaper\FX_Ambience_RustleNewspaper_04		28844
+	339079032	FX_Weebos_Noise_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_noise_02_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Noise\FX_Weebos_Noise_02		8714
+	345734774	FX_Weebos_Jump_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_jump_02_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Jump\FX_Weebos_Jump_02		8277
+	351094347	FX_CrateBreak	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_cratebreak_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Misc\FX_CrateBreak		13752
+	362572082	FX_LightningGun_Stop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_lightninggun_stop_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Lightning Gun\FX_LightningGun_Alt\FX_LightningGun_Stop		14726
+	371488197	FX_Weebos_Death03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_death03_947f770c_fdc28311.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Boss\FX_Boss_Death\FX_Weebos_Death03		16727
+	372073442	FX_Beeps_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_beeps_04_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Menu_Ambience\FX_Ambience_Stingers_Beeps\FX_Ambience_Stingers_Beeps\FX_Beeps_04		4638
+	376151870	FX_Ambience_Dove_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_dove_02_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_Stingers_Doves\FX_Ambience_Stingers_Doves\FX_Ambience_Dove_02		10303
+	387617567	DX_Barron_RocketLauncherUlt_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_rocketlauncherult_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Ultimates\DX_Barron_RocketLauncherUlt\DX_Barron_RocketLauncherUlt_01		31248
+	389820242	FX_Ambience_Seagull_07	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_seagull_07_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Seagulls\FX_Ambience_Seagulls\FX_Ambience_Seagull_07		9231
+	391220231	DX_Announcer_Shotgun	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_shotgun_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_Shotgun		18885
+	391425581	FX_Footstep_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_footstep_02_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Footsteps\FX_Footstep_02		6025
+	405428904	FX_Ambience_Sparrow_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_sparrow_01_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Stingers_Birds\FX_Ambience_Stingers_Birds\FX_Ambience_Sparrow_01		22658
+	410394675	FX_Ambience_Seagull_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_seagull_01_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Seagulls\FX_Ambience_Seagulls\FX_Ambience_Seagull_01		341783
+	412764166	DX_Announcer_UltimateClaire_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_ultimateclaire_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_UltimateClaire_01		24948
+	428821245	Wind_Gust10	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\wind_gust10_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\FX_Wind\FX_Wind\Wind_Gust10		38291
+	429914739	FX_Beeps_05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_beeps_05_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Menu_Ambience\FX_Ambience_Stingers_Beeps\FX_Ambience_Stingers_Beeps\FX_Beeps_05		3429
+	433488507	FX_Boss_Spawn_Loop2	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_boss_spawn_loop2_947f770d.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Boss\Boss_Spawn\FX_Boss_Spawn_Loops\FX_Boss_Spawn_Loop2		47926
+	433592782	DX_Baron_SmashBashBlamo_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_smashbashblamo_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Positive_Feedback\DX_Baron_SmashBashBlamo_01		43059
+	434516831	DX_Barron_RocketLauncherUlt_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_rocketlauncherult_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Ultimates\DX_Barron_RocketLauncherUlt\DX_Barron_RocketLauncherUlt_02		19088
+	449800775	SFX_Bullet_Hit_Groun_07	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_bullet_hit_groun_07_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Misc\FX_Bullet_Hit_Ground\SFX_Bullet_Hit_Groun_07		9293
+	452718040	Wind_Gust11	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\wind_gust11_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\FX_Wind\FX_Wind\Wind_Gust11		33636
+	459539886	FX_Land_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_land_03_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Land\FX_Land_03		6486
+	471819398	FX_Weebos_Gunshot_05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_gunshot_05_947f770c_8079cf26.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Gunshot\FX_Weebos_Gunshot_05		11681
+	476345214	FX_Menu_Select	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_menu_select_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Menu_Select		6484
+	488609797	FX_Shotgun_Ultimate	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_shotgun_ultimate_947f770c_17ecda44.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Shotgun\FX_Shotgun_Ultimate		16310
+	490370174	FX_Beeps_10	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_beeps_10_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Menu_Ambience\FX_Ambience_Stingers_Beeps\FX_Ambience_Stingers_Beeps\FX_Beeps_10		8970
+	500738198	DX_Claire_Hurt_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_hurt_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Hit\DX_Claire_Hurt_02		10994
+	502857642	FX_Beeps_08	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_beeps_08_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Menu_Ambience\FX_Ambience_Stingers_Beeps\FX_Ambience_Stingers_Beeps\FX_Beeps_08		14184
+	507606908	FX_Ambience_Leaves_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_leaves_01_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Leaves\FX_Ambience_Leaves\FX_Ambience_Leaves_01		17246
+	510605885	FX_Weebos_Gunshot_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_gunshot_02_947f770c_8079cf26.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Gunshot\FX_Weebos_Gunshot_02		7374
+	512807531	FX_Boss_Spawn_Stop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_boss_spawn_stop_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Boss\Boss_Spawn\FX_Boss_Spawn_Stop		16198
+	515320167	DX_Barron_Jump_05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_jump_05_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Jump\DX_Barron_Jump_05		4272
+	517487704	FX_Boss_CannonShot	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_boss_cannonshot_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Boss\FX_Boss_CannonShot		19916
+	521751769	MX_N2_Menu_Soundtrack_Loop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\mx_n2_menu_soundtrack_loop_8e577417.ogg		\Interactive Music Hierarchy\Default Work Unit\MX_Menu_Music\MX_N2_Menu_Soundtrack_Loop\MX_N2_Menu_Soundtrack_Loop		287728
+	523046414	DX_Barron_Jump_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_jump_04_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Jump\DX_Barron_Jump_04		5190
+	526883681	DX_Baron_Hit_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_hit_03_77d70297.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Baron_Hit\DX_Baron_Hit_03		10922
+	530296019	FX_Weebos_Death01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_death01_947f770c_7405aca7.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Death\FX_Weebos_Death01		16620
+	533163447	Explo_Small_10	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\explo_small_10_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Rocket Launcher\FX_Weapons_RocketLauncher_Explo\Explo_Small_10		15399
+	535610190	DX_Barron_ShotgunUlt_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_shotgunult_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Ultimates\DX_Barron_ShotgunUlt\DX_Barron_ShotgunUlt_02		31719
+	538666568	FX_Land_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_land_04_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Land\FX_Land_04		7801
+	549193432	LightningGunUlt_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\lightninggunult_01_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Lightning Gun\FX_LightningGun_Ult\LightningGunUlt_01		10881
+	549404481	FX_Ambience_Gust	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_gust_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Stingers_Birds\FX_Ambience_Stingers_Birds\FX_Ambience_Gust		73961
+	550148138	DX_Barron_Jump_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_jump_03_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Jump\DX_Barron_Jump_03		5985
+	550417071	Computer_Loop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\computer_loop_77d70296.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Menu_Ambience\Computer_Loop		51055
+	551567300	SFX_Flamethrower_Alt	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_flamethrower_alt_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Flame Thrower\Flame Thrower Alt\SFX_Flamethrower_Alt		21833
+	555032298	FX_Ambience_RustleNewspaper_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_rustlenewspaper_03_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_RustleNewspaper\FX_Ambience_RustleNewspaper\FX_Ambience_RustleNewspaper_03		26544
+	555879585	DX_Announcer_Killed_PlayerTwo	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_killed_playertwo_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_Killed_PlayerTwo		33070
+	556459370	FX_Ambience_Leaves_06	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_leaves_06_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Leaves\FX_Ambience_Leaves\FX_Ambience_Leaves_06		16864
+	558276042	Creak_LargeMetalShip02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\creak_largemetalship02_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\FX_Creaks\FX_Creaks\Creak_LargeMetalShip02		24191
+	565689545	FX_Boss_Spawn_Start	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_boss_spawn_start_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Boss\Boss_Spawn\FX_Boss_Spawn_Start		11990
+	571112691	DX_Barron_FlamethrowerUlt_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_flamethrowerult_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Ultimates\DX_Barron_FlamethrowerUlt\DX_Barron_FlamethrowerUlt_01		24349
+	581460280	FX_Ambience_Wind_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_wind_01_77d70296.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_Wind_01		53174
+	583449288	FX_Ambience_Wave_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_wave_02_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Waves\FX_Ambience_Waves\FX_Ambience_Wave_02		35751
+	587992133	FX_Ambience_OceanLoop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_oceanloop_77d70296.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_OceanLoop		102587
+	591157461	DX_Barron_Land_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_land_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Land\DX_Barron_Land_01		3108
+	591866472	FX_Ambience_City_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_city_03_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\City_Ambiences\FX_Ambience_City_03		50206
+	597702676	DX_Claire_Taunt_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_taunt_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Positive_Feedback\DX_Claire_Taunt_02		12410
+	602720804	FX_Ambience_Parrot_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_parrot_03_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Stingers_Birds\FX_Ambience_Stingers_Birds\FX_Ambience_Parrot_03		13860
+	604138648	DX_Announcer_FlameThrower_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_flamethrower_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_FlameThrower\DX_Announcer_FlameThrower_02		21331
+	606101998	DX_Claire_Taunt_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_taunt_04_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Positive_Feedback\DX_Claire_Taunt_04		18587
+	612082570	FX_Ambience_Parrot_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_parrot_01_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Stingers_Birds\FX_Ambience_Stingers_Birds\FX_Ambience_Parrot_01		13812
+	613996503	FX_Weebos_Jump_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_jump_01_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Jump\FX_Weebos_Jump_01		8659
+	614015571	FX_Ambience_Hawk	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_hawk_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Stingers_Birds\FX_Ambience_Stingers_Birds\FX_Ambience_Hawk		17875
+	622138303	Crow_Stinger	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\crow_stinger_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\FX_Creaks\FX_Creaks\Crow_Stinger		42804
+	623333213	DX_Claire_Hurt_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_hurt_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Hit\DX_Claire_Hurt_01		9098
+	628294171	FX_Ambience_JungleLoop_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_jungleloop_02_77d70296.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_JungleLoop_02		90104
+	629663146	DX_Announcer_PlayerTwoEntered	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_playertwoentered_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_PlayerTwoEntered		29480
+	635757348	DX_Barron_Land_06	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_land_06_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Land\DX_Barron_Land_06		3626
+	649213612	SFX_Pickup_Flamethrower	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_pickup_flamethrower_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\Weapon Pickups\SFX_Pickup_Flamethrower		18810
+	655826696	FX_Footstep_07	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_footstep_07_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Footsteps\FX_Footstep_07		5403
+	656122373	DX_Claire_Jump_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_jump_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Jump\DX_Claire_Jump_02		3907
+	656880821	DX_Announcer_UltimateFire_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_ultimatefire_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_UltimateFire_01		25908
+	658748522	FX_Ambience_Parrot_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_parrot_02_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Stingers_Birds\FX_Ambience_Stingers_Birds\FX_Ambience_Parrot_02		7764
+	660180788	FX_Ambience_Seagull_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_seagull_03_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Seagulls\FX_Ambience_Seagulls\FX_Ambience_Seagull_03		25663
+	661949677	FX_Weapon_RocketLauncher_05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weapon_rocketlauncher_05_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Rocket Launcher\FX_Weapons_RocketLauncher\FX_Weapon_RocketLauncher_05		15870
+	665711622	FX_Weebos_Death04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_death04_947f770c_7405aca7.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Death\FX_Weebos_Death04		18702
+	665844965	Explo_Small_11	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\explo_small_11_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Rocket Launcher\FX_Weapons_RocketLauncher_Explo\Explo_Small_11		15463
+	667290107	FX_Ambience_Wave_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_wave_01_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Waves\FX_Ambience_Waves\FX_Ambience_Wave_01		27808
+	671242173	DX_Baron_ImAwesome_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_imawesome_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Positive_Feedback\DX_Baron_ImAwesome_02		19986
+	680355911	MX_N2_GameOver	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\mx_n2_gameover_8e577417.ogg		\Interactive Music Hierarchy\Default Work Unit\MX_N2_GameOver\MX_N2_GameOver		372391
+	682317030	FX_Ambience_Leaves_07	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_leaves_07_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Leaves\FX_Ambience_Leaves\FX_Ambience_Leaves_07		16864
+	683791655	FX_Beeps_06	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_beeps_06_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Menu_Ambience\FX_Ambience_Stingers_Beeps\FX_Ambience_Stingers_Beeps\FX_Beeps_06		4967
+	685609865	FX_Boss_Spawn_Loop1	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_boss_spawn_loop1_947f770d.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Boss\Boss_Spawn\FX_Boss_Spawn_Loops\FX_Boss_Spawn_Loop1		24542
+	687791657	FX_Player_Dash	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_player_dash_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Player_Dash		7407
+	693284046	FX_Weebos_Noise_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_noise_01_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Noise\FX_Weebos_Noise_01		8286
+	693569808	DX_Claire_LightningGunUlt	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_lightninggunult_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Ultimates\DX_Claire_LightningGunUlt		20743
+	694185640	DX_Announcer_Killed_PlayerOne	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_killed_playerone_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_Killed_PlayerOne		31250
+	704697778	DX_Baron_HahaYeah_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_hahayeah_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Positive_Feedback\DX_Baron_HahaYeah_01		28889
+	708393720	DX_Baron_BitsFly_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_bitsfly_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Positive_Feedback\DX_Baron_BitsFly_01		24577
+	712834405	DX_Claire_Jump_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_jump_03_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Jump\DX_Claire_Jump_03		4487
+	718466885	MX_N2_Soundtrack2	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\mx_n2_soundtrack2_8e577417.ogg		\Interactive Music Hierarchy\Default Work Unit\MX_Level_Music\MX_N2_Soundtrack2\MX_N2_Soundtrack2		9281470
+	722152216	DX_Announcer_LightningGun_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_lightninggun_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_LightningGun\DX_Announcer_LightningGun_02		18553
+	726822477	FX_Footstep_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_footstep_04_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Footsteps\FX_Footstep_04		5973
+	729430630	FX_Weapon_RocketLauncher_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weapon_rocketlauncher_03_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Rocket Launcher\FX_Weapons_RocketLauncher\FX_Weapon_RocketLauncher_03		15471
+	745762829	DX_Claire_Land_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_land_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Land\DX_Claire_Land_02		4694
+	752192312	DX_Claire_Taunt_06	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_taunt_06_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Positive_Feedback\DX_Claire_Taunt_06		11234
+	769799654	FX_Ambience_City_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_city_02_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\City_Ambiences\FX_Ambience_City_02		54915
+	778245645	SFX_Enemy_Robot_Hit_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_enemy_robot_hit_01_947f770c_abaabc11.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Hits\SFX_Enemy_Robot_Hit_01		3853
+	780850316	FX_Weebos_Death03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_death03_947f770c_7405aca7.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Death\FX_Weebos_Death03		16727
+	780895825	FX_Ambience_Wave_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_wave_03_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Waves\FX_Ambience_Waves\FX_Ambience_Wave_03		32736
+	785516397	Explo_Small_08	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\explo_small_08_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Rocket Launcher\FX_Weapons_RocketLauncher_Explo\Explo_Small_08		9978
+	790990634	DX_Claire_Hurt_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_hurt_03_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Hit\DX_Claire_Hurt_03		10907
+	791229527	FX_Ambience_Leaves_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_leaves_04_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Leaves\FX_Ambience_Leaves\FX_Ambience_Leaves_04		17714
+	793568129	FX_Ambience_Wave_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_wave_04_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Waves\FX_Ambience_Waves\FX_Ambience_Wave_04		30368
+	795438348	DX_Claire_Land_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_land_03_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Land\DX_Claire_Land_03		3682
+	803395194	DX_Barron_Land_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_land_03_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Land\DX_Barron_Land_03		2987
+	803876685	FX_LightningGun_ElectricLoop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_lightninggun_electricloop_947f770d_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Lightning Gun\FX_LightningGun_Alt\FX_LightningGun_ElectricLoop		54395
+	809880178	FX_Flamethrower_Ultimate_Wind_Loop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_flamethrower_ultimate_wind_loop_947f770d_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Flame Thrower\Flame Thrower Ult\FX_Flamethrower_Ultimate_Wind_Loop		35971
+	811048703	DX_Claire_RocketLauncherUlt	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_rocketlauncherult_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Ultimates\DX_Claire_RocketLauncherUlt		13533
+	811613732	Valve_MetalWheelTurn_Squeak2	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\valve_metalwheelturn_squeak2_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\FX_Creaks\FX_Creaks\Valve_MetalWheelTurn_Squeak2		27112
+	817583919	FX_Ambience_City_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_city_04_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\City_Ambiences\FX_Ambience_City_04		50878
+	823818171	FX_Ambience_Dove_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_dove_01_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_Stingers_Doves\FX_Ambience_Stingers_Doves\FX_Ambience_Dove_01		15128
+	824246977	FX_Equipment_Movement_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_equipment_movement_02_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Equipment\FX_Equipment_Movement_02		9243
+	828013210	DX_Baron_ImAwesome_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_imawesome_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Positive_Feedback\DX_Baron_ImAwesome_01		19670
+	829999638	FX_Weapon_RocketLauncher_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weapon_rocketlauncher_01_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Rocket Launcher\FX_Weapons_RocketLauncher\FX_Weapon_RocketLauncher_01		17355
+	836131919	Creak_LargeMetalShip04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\creak_largemetalship04_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\FX_Creaks\FX_Creaks\Creak_LargeMetalShip04		25275
+	837485912	DX_Announcer_TakenTheLead_PlayerOne	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_takenthelead_playerone_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_TakenTheLead_PlayerOne		32849
+	838737948	DX_Announcer_LeadBaron	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_leadbaron_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_LeadBaron		25752
+	840757302	Creak_LargeMetalShip05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\creak_largemetalship05_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\FX_Creaks\FX_Creaks\Creak_LargeMetalShip05		27229
+	845310815	DX_Baron_CantStop_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_cantstop_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Positive_Feedback\DX_Baron_CantStop_01		34912
+	846111012	FX_Weebos_Gunshot_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_gunshot_04_947f770c_8079cf26.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Gunshot\FX_Weebos_Gunshot_04		8245
+	846423997	DX_Announcer_RocketLauncher_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_rocketlauncher_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_RocketLauncher\DX_Announcer_RocketLauncher_01		20416
+	852562182	FX_Weebos_Noise_05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_noise_05_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Noise\FX_Weebos_Noise_05		7365
+	853875908	SFX_Enemy_Robot_Hit_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_enemy_robot_hit_02_947f770c_abaabc11.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Hits\SFX_Enemy_Robot_Hit_02		5104
+	859514899	Creak_LargeMetalShip01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\creak_largemetalship01_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\FX_Creaks\FX_Creaks\Creak_LargeMetalShip01		24551
+	861384817	FX_Ambience_Dove_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_dove_03_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_Stingers_Doves\FX_Ambience_Stingers_Doves\FX_Ambience_Dove_03		21269
+	861453058	FX_Ambience_Wren_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_wren_02_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Stingers_Birds\FX_Ambience_Stingers_Birds\FX_Ambience_Wren_02		26715
+	868222178	DX_Barron_LightningGunUlt_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_lightninggunult_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Ultimates\DX_Barron_LightningGunUlt\DX_Barron_LightningGunUlt_01		15442
+	868308504	DX_Baron_Hit_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_hit_01_77d70297.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Baron_Hit\DX_Baron_Hit_01		10586
+	871568211	FX_Ambience_Leaves_05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_leaves_05_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Leaves\FX_Ambience_Leaves\FX_Ambience_Leaves_05		17786
+	871695910	FX_Typing_Loop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_typing_loop_77d70296.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Typing_Loop		99299
+	874306978	DX_Barron_Jump_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_jump_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Jump\DX_Barron_Jump_01		4303
+	876730247	DX_Barron_Land_05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_barron_land_05_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Barron_Land\DX_Barron_Land_05		3327
+	879389627	DX_Announcer_LightningGun_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_lightninggun_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_LightningGun\DX_Announcer_LightningGun_01		22798
+	884814818	FX_Ambience_Seagull_05	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_seagull_05_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Seagulls\FX_Ambience_Seagulls\FX_Ambience_Seagull_05		50896
+	890121186	FX_Ambience_Seagull_06	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_seagull_06_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Seagulls\FX_Ambience_Seagulls\FX_Ambience_Seagull_06		8847
+	895612241	MX_N2_Menu_Soundtrack	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\mx_n2_menu_soundtrack_8e577417.ogg		\Interactive Music Hierarchy\Default Work Unit\MX_Menu_Music\MX_N2_Menu_Soundtrack\MX_N2_Menu_Soundtrack		1393934
+	901169038	FX_Flamethrower_Start	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_flamethrower_start_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Flame Thrower\Flame Thrower Fire\FX_Flamethrower_Start		13863
+	904213953	SFX_Pickup_ShotGun	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_pickup_shotgun_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\Weapon Pickups\SFX_Pickup_ShotGun		8781
+	904884286	FX_Boss_LargeLaser	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_boss_biglaser_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Boss\FX_Boss_LargeLaser		38283
+	908439968	DX_Claire_Death_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_death_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Death\DX_Claire_Death_02		25070
+	909048242	FX_Beeps_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_beeps_01_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Menu_Ambience\FX_Ambience_Stingers_Beeps\FX_Ambience_Stingers_Beeps\FX_Beeps_01		8769
+	915490667	FX_Ambience_JungleLoop_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_jungleloop_01_77d70296.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_JungleLoop_01		113157
+	916681809	DX_Claire_FlameThrowerUlt	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_flamethrowerult_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Ultimates\DX_Claire_FlameThrowerUlt		27539
+	918863094	DX_Announcer_GoGoGo_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_gogogo_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_GoGoGo_01		25445
+	922018215	FX_Equipment_Movement_07	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_equipment_movement_07_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Equipment\FX_Equipment_Movement_07		10307
+	922481240	DX_Announcer_KillingSpree	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_killingspree_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_KillingSpree		22015
+	923451837	SFX_Bullet_Hit_Groun_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_bullet_hit_groun_02_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Misc\FX_Bullet_Hit_Ground\SFX_Bullet_Hit_Groun_02		13250
+	930012621	DX_Announcer_WreckThemAll	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_wreckthemall_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_WreckThemAll		22765
+	937616189	FX_Flamethrower_Stop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_flamethrower_stop_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Flame Thrower\Flame Thrower Fire\FX_Flamethrower_Stop		10965
+	939800554	FX_MachineGun	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\machinegun_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Machine Gun\FX_MachineGun		10900
+	947446773	FX_Ambience_Seagull_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_seagull_04_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Seagulls\FX_Ambience_Seagulls\FX_Ambience_Seagull_04		38706
+	948280275	FX_Beeps_07	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_beeps_07_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Menu_Ambience\FX_Ambience_Stingers_Beeps\FX_Ambience_Stingers_Beeps\FX_Beeps_07		4491
+	949457202	DX_Claire_Taunt_07	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_taunt_07_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Positive_Feedback\DX_Claire_Taunt_07		16699
+	953557518	FX_LightningGun	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_lightninggun_start_947f770c_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Lightning Gun\FX_LightningGun		14102
+	957123853	DX_Announcer_SplitUp	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_splitup_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_SplitUp		17184
+	960894736	FX_Ambience_CarAlarm_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_caralarm_01_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_Car\FX_Ambience_Car\FX_Ambience_CarAlarm_01		49064
+	965850982	FX_Beeps_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_beeps_02_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Menu_Ambience\FX_Ambience_Stingers_Beeps\FX_Ambience_Stingers_Beeps\FX_Beeps_02		6430
+	970411537	DX_Baron_Hit_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_hit_02_77d70297.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Baron_Hit\DX_Baron_Hit_02		10635
+	970503804	FX_Weebos_Gunshot_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weebos_gunshot_01_947f770c_8079cf26.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Gunshot\FX_Weebos_Gunshot_01		9891
+	973213816	FX_Ambience_Seagull_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_seagull_02_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Beach_Ambience\FX_Ambience_Seagulls\FX_Ambience_Seagulls\FX_Ambience_Seagull_02		33892
+	989164456	FX_Menu_Up	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_menu_up_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\Menu Navigation\FX_Menu_Up		2399
+	989307619	DX_Announcer_Regroup	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_regroup_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_Regroup		17096
+	990177978	FX_Equipment_Movement_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_equipment_movement_01_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Equipment\FX_Equipment_Movement_01		10965
+	1001236153	DX_Baron_Death_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_baron_death_01_77d70297.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Barron\DX_Baron_Death\DX_Baron_Death_01		21197
+	1001591240	DX_Claire_Hurt_07	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_hurt_07_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Hit\DX_Claire_Hurt_07		8219
+	1004283198	FX_Ambience_CicadaLoop	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_cicadaloop_77d70296.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_CicadaLoop		268108
+	1005683245	SFX_Enemy_Robot_Hit_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_enemy_robot_hit_03_947f770c_abaabc11.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Enemies\FX_Weebos_Hits\SFX_Enemy_Robot_Hit_03		5020
+	1007197816	DX_Claire_Jump_07	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_jump_07_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Jump\DX_Claire_Jump_07		3996
+	1008206303	SFX_Bullet_Hit_Groun_06	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\sfx_bullet_hit_groun_06_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Misc\FX_Bullet_Hit_Ground\SFX_Bullet_Hit_Groun_06		8141
+	1013167237	DX_Claire_Death_03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_death_03_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Death\DX_Claire_Death_03		21345
+	1017679855	RocketLauncherAltTravel	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\rocketlauncheralttravel_947f770d_b9d0aa41.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Weapons\Rocket Launcher\RocketLauncherAltTravel		21488
+	1021510554	DX_Announcer_LeadClaire	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_leadclaire_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_LeadClaire		22920
+	1030654616	FX_Wind_EerieLoop03	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_wind_eerieloop03_77d70296.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Train_Ambience\FX_Wind_EerieLoop03		51965
+	1034500863	DX_Claire_ShotgunUlt	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_shotgunult_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Ultimates\DX_Claire_ShotgunUlt		20096
+	1036979264	DX_Announcer_FlameThrower_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_flamethrower_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_FlameThrower\DX_Announcer_FlameThrower_01		17593
+	1047594179	DX_Claire_Death_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_death_01_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Death\DX_Claire_Death_01		24513
+	1048560550	DX_Announcer_RocketLauncher_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_announcer_rocketlauncher_02_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Announcer\DX_Announcer_RocketLauncher\DX_Announcer_RocketLauncher_02		25904
+	1051804410	DX_Claire_Hurt_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_hurt_04_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Hit\DX_Claire_Hurt_04		10504
+	1055290845	FX_Ambience_City_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_city_01_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\City_Ambiences\FX_Ambience_City_01		99032
+	1055600587	FX_Beeps_09	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_beeps_09_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Menu\FX_Menu_Ambience\FX_Ambience_Stingers_Beeps\FX_Ambience_Stingers_Beeps\FX_Beeps_09		8953
+	1064777361	FX_Ambience_RustleNewspaper_02	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_rustlenewspaper_02_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_City_Ambience\FX_Ambience_RustleNewspaper\FX_Ambience_RustleNewspaper\FX_Ambience_RustleNewspaper_02		24536
+	1065195661	FX_Equipment_Movement_04	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_equipment_movement_04_947f770c.ogg		\Actor-Mixer Hierarchy\FX\3D\N2\Foley\FX_Equipment\FX_Equipment_Movement_04		9230
+	1070882527	DX_Claire_Jump_06	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\dx_claire_jump_06_77d70297_effe9e1.ogg		\Actor-Mixer Hierarchy\DX\2D\Character Voices\Claire\DX_Claire_Jump\DX_Claire_Jump_06		4156
+	1071026440	FX_Ambience_Wren_01	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_ambience_wren_01_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Ambiences\Ambience\FX_Forest_Ambience\FX_Ambience_Stingers_Birds\FX_Ambience_Stingers_Birds\FX_Ambience_Wren_01		32560
+	1071620674	FX_Weapon_RocketLauncher_Ult_PlaneBy	D:\_Wwise Projects\Three Way Tie\N Squared\.cache\Windows\sfx\fx_weapon_rocketlauncher_ult_planeby_77d70297.ogg		\Actor-Mixer Hierarchy\FX\2D\N2\Rocket Launcher Ult\FX_Weapon_RocketLauncher_Ult_PlaneBy		45970
+

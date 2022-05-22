@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EmitterList NumberOfEmitters="1">
+  <Emitter>
+    <EmitterProperties>
+      <Name>Emitter</Name>
+      <Texture>blood01.tga</Texture>
+      <Effect>Particle.fx</Effect>
+      <KillOnComplete>true</KillOnComplete>
+      <KillOnDeactivate>true</KillOnDeactivate>
+      <FixedBoundingBox>false</FixedBoundingBox>
+      <BoundingBox>
+        <Min X="-2" Y="-2" Z="-2" />
+        <Max X="2" Y="2" Z="2" />
+      </BoundingBox>
+      <EmitterDelay>0</EmitterDelay>
+      <DelayFirstLoopOnly>false</DelayFirstLoopOnly>
+      <EmitterDuration>0.7</EmitterDuration>
+      <LoopCount>1</LoopCount>
+      <BlendMode>TransparencyBlend</BlendMode>
+      <HUDEffect>false</HUDEffect>
+    </EmitterProperties>
+    <EmitterAttributeList NumberOfEmitterAttributes="8">
+      <EmitterAttribute Name="Spawn">
+        <SpawnRate>0.01</SpawnRate>
+        <SpawnMultiplier>10</SpawnMultiplier>
+        <MaxParticles>2</MaxParticles>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Lifetime">
+        <MinLife>0.4</MinLife>
+        <MaxLife>0.7</MaxLife>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Velocity">
+        <MinVelocity X="-2" Y="-0.5" Z="-1" />
+        <MaxVelocity X="2" Y="-3" Z="-5" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Color By Life">
+        <StartColor A="255" R="255" G="0" B="0" />
+        <EndColor A="150" R="255" G="0" B="0" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Size By Life">
+        <StartSize>32</StartSize>
+        <EndSize>400</EndSize>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Rotation">
+        <MinRot>6</MinRot>
+        <MaxRot>-6</MaxRot>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Acceleration">
+        <MinAcceleration X="0" Y="-5" Z="-8" />
+        <MaxAcceleration X="0" Y="-3" Z="-10" />
+      </EmitterAttribute>
+      <EmitterAttribute Name="Orbit">
+        <MinPoint X="0" Y="0" Z="0" />
+        <MaxPoint X="0" Y="0" Z="0" />
+        <MinRot X="0" Y="0" Z="0" />
+        <MaxRot X="0" Y="0" Z="0" />
+        <MinRate X="1" Y="0" Z="0" />
+        <MaxRate X="1" Y="0" Z="0" />
+      </EmitterAttribute>
+    </EmitterAttributeList>
+  </Emitter>
+</EmitterList>

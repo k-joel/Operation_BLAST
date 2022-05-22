@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EmitterList NumberOfEmitters="1">
+  <Emitter>
+    <EmitterProperties>
+      <Name>hudfire</Name>
+      <Texture>smoke01.png</Texture>
+      <Effect>Particle.fx</Effect>
+      <KillOnComplete>false</KillOnComplete>
+      <KillOnDeactivate>false</KillOnDeactivate>
+      <FixedBoundingBox>false</FixedBoundingBox>
+      <BoundingBox>
+        <Min X="-10" Y="-10" Z="-10"/>
+        <Max X="10" Y="10" Z="10"/>
+      </BoundingBox>
+      <EmitterDelay>0</EmitterDelay>
+      <DelayFirstLoopOnly>false</DelayFirstLoopOnly>
+      <EmitterDuration>0</EmitterDuration>
+      <LoopCount>1</LoopCount>
+      <BlendMode>AdditiveBlend</BlendMode>
+      <HUDEffect>true</HUDEffect>
+    </EmitterProperties>
+    <EmitterAttributeList NumberOfEmitterAttributes="9">
+      <EmitterAttribute Name="Spawn">
+        <SpawnRate>0.01</SpawnRate>
+        <SpawnMultiplier>17</SpawnMultiplier>
+        <MaxParticles>0</MaxParticles>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Lifetime">
+        <MinLife>0.1</MinLife>
+        <MaxLife>0.3</MaxLife>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Velocity">
+        <MinVelocity X="0" Y="60" Z="0"/>
+        <MaxVelocity X="0" Y="65" Z="0"/>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Acceleration">
+        <MinAcceleration X="0" Y="5" Z="0"/>
+        <MaxAcceleration X="0" Y="10" Z="0"/>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Color By Life">
+        <StartColor A="255" R="255" G="255" B="255"/>
+        <EndColor A="10" R="255" G="69" B="0"/>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Size By Life">
+        <StartSize>16</StartSize>
+        <EndSize>32</EndSize>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Rotation">
+        <MinRot>0</MinRot>
+        <MaxRot>32</MaxRot>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Initial Rot Rate">
+        <MinRate>-12</MinRate>
+        <MaxRate>12</MaxRate>
+      </EmitterAttribute>
+      <EmitterAttribute Name="Line">
+        <PointA X="0" Y="0" Z="0"/>
+        <PointB X="130" Y="0" Z="0"/>
+      </EmitterAttribute>
+    </EmitterAttributeList>
+  </Emitter>
+</EmitterList>
+
+

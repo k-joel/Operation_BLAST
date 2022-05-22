@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <ProjectGuid>{A42CFDE7-44D7-4218-821B-9B9C473E70CA}</ProjectGuid>
+    <RootNamespace>TheEngine</RootNamespace>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>17.0.32203.90</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(ProjectDir)Ext\D3DX\Include;$(ProjectDir)Ext\Visual Leak Detector\include;$(ProjectDir)Ext\Lua\5.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(ProjectDir)Ext\D3DX\Lib\x86;$(ProjectDir)Ext\Visual Leak Detector\lib\Win32;$(ProjectDir)Ext\Lua\5.1\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(ProjectDir)Ext\D3DX\Include;$(ProjectDir)Ext\Visual Leak Detector\include;$(ProjectDir)Ext\Lua\5.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(ProjectDir)Ext\D3DX\Lib\x86;$(ProjectDir)Ext\Visual Leak Detector\lib\Win32;$(ProjectDir)Ext\Lua\5.1\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Label="Vcpkg">
+    <VcpkgEnabled>false</VcpkgEnabled>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>$(ProjectDir)\Sound\WWise\;.\LuaEngine\Libraries\Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>d3d9.lib;d3dx9d.lib;dxguid.lib;dxerr.lib;dinput8.lib;lua51.lib;dbghelp.lib;AkSoundEngine.lib;AkMusicEngine.lib;AkMemoryMgr.lib;AkStreamMgr.lib;AkVorbisDecoder.lib;AkRumble.lib;AkMotionGenerator.lib;AkPeakLimiterFX.lib;AkCompressorFX.lib;ws2_32.lib;CommunicationCentral.lib;winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(ProjectDir)\Sound\WWise\Debug(StaticCRT)\lib;./LuaEngine/Libraries/Lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <Optimization>MaxSpeed</Optimization>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <AdditionalIncludeDirectories>$(ProjectDir)\Sound\WWise\;.\LuaEngine\Libraries\Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;AK_OPTIMIZED;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>lua51.lib;dbghelp.lib;AkSoundEngine.lib;AkMusicEngine.lib;AkMemoryMgr.lib;AkStreamMgr.lib;AkVorbisDecoder.lib;AkRumble.lib;AkMotionGenerator.lib;AkPeakLimiterFX.lib;AkCompressorFX.lib;dxguid.lib;ws2_32.lib;winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(ProjectDir)\Sound\WWise\Release(StaticCRT)\lib;.\LuaEngine\Libraries\Lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <IgnoreSpecificDefaultLibraries>
+      </IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <GenerateMapFile>true</GenerateMapFile>
+      <MapExports>true</MapExports>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="AI System\Boss\PhaseOne.cpp" />
+    <ClCompile Include="AI System\Boss\PhaseThree.cpp" />
+    <ClCompile Include="AI System\Boss\PhaseTwo.cpp" />
+    <ClCompile Include="AI System\CAIStateMachine.cpp" />
+    <ClCompile Include="AI System\CArrivalState.cpp" />
+    <ClCompile Include="AI System\CDeathState.cpp" />
+    <ClCompile Include="AI System\CFlyState.cpp" />
+    <ClCompile Include="AI System\CIdleState.cpp" />
+    <ClCompile Include="AI System\CJumpState.cpp" />
+    <ClCompile Include="AI System\CNavigateState.cpp" />
+    <ClCompile Include="AI System\CoopAI\CCoopDash.cpp" />
+    <ClCompile Include="AI System\CoopAI\CCoopDodge.cpp" />
+    <ClCompile Include="AI System\CoopAI\CCoopJump.cpp" />
+    <ClCompile Include="AI System\CoopAI\CCoopRun.cpp" />
+    <ClCompile Include="AI System\CoopAI\CCoopSelect.cpp" />
+    <ClCompile Include="AI System\CoopAI\CCoopShoot.cpp" />
+    <ClCompile Include="AI System\CRunState.cpp" />
+    <ClCompile Include="AI System\CSelectState.cpp" />
+    <ClCompile Include="AI System\CShootState.cpp" />
+    <ClCompile Include="Camera\Camera.cpp" />
+    <ClCompile Include="Collision\CAABB.cpp" />
+    <ClCompile Include="Collision\CBaseBV.cpp" />
+    <ClCompile Include="Collision\CCapsule.cpp" />
+    <ClCompile Include="Collision\CCollisionResponse.cpp" />
+    <ClCompile Include="Collision\CCollisionTests.cpp" />
+    <ClCompile Include="Collision\COBB.cpp" />
+    <ClCompile Include="Collision\CSphere.cpp" />
+    <ClCompile Include="Core\CConfigLoader.cpp" />
+    <ClCompile Include="Core\CGame.cpp" />
+    <ClCompile Include="Core\WinMain.cpp" />
+    <ClCompile Include="Debug System\DebugSystem.cpp" />
+    <ClCompile Include="Event System\CEventSystem.cpp" />
+    <ClCompile Include="Font\CBitMapFont.cpp" />
+    <ClCompile Include="FX\CEffect.cpp" />
+    <ClCompile Include="FX\CEmitter.cpp" />
+    <ClCompile Include="FX\CFXManager.cpp" />
+    <ClCompile Include="FX\CParticleEffect.cpp" />
+    <ClCompile Include="FX\CParticleManager.cpp" />
+    <ClCompile Include="Game Objects\Barron.cpp" />
+    <ClCompile Include="Game Objects\Bullet\CChargedLaser.cpp" />
+    <ClCompile Include="Game Objects\Bullet\CFizzle.cpp" />
+    <ClCompile Include="Game Objects\Bullet\CFlamethrowerBullet.cpp" />
+    <ClCompile Include="Game Objects\Bullet\CLaserBullet.cpp" />
+    <ClCompile Include="Game Objects\Bullet\CLightningBullet.cpp" />
+    <ClCompile Include="Game Objects\Bullet\CMachineGunBullet.cpp" />
+    <ClCompile Include="Game Objects\Bullet\CRocketBullet.cpp" />
+    <ClCompile Include="Game Objects\Bullet\CShotgunBullet.cpp" />
+    <ClCompile Include="Game Objects\Bullet\CSmartLaserBullet.cpp" />
+    <ClCompile Include="Game Objects\CAudioTrigger.cpp" />
+    <ClCompile Include="Game Objects\CBarrel.cpp" />
+    <ClCompile Include="Game Objects\CBase.cpp" />
+    <ClCompile Include="Game Objects\CButtonGui.cpp" />
+    <ClCompile Include="Game Objects\CCharacter.cpp" />
+    <ClCompile Include="Game Objects\CClaire.cpp" />
+    <ClCompile Include="Game Objects\CCrate.cpp" />
+    <ClCompile Include="Game Objects\CDebris.cpp" />
+    <ClCompile Include="Game Objects\CExplosion.cpp" />
+    <ClCompile Include="Game Objects\CGoal.cpp" />
+    <ClCompile Include="Game Objects\CGravWell.cpp" />
+    <ClCompile Include="Game Objects\CGui.cpp" />
+    <ClCompile Include="Game Objects\CHUD.cpp" />
+    <ClCompile Include="Game Objects\CMerge.cpp" />
+    <ClCompile Include="Game Objects\CMotion.cpp" />
+    <ClCompile Include="Game Objects\CMotionFactory.cpp" />
+    <ClCompile Include="Game Objects\CMotorcycle.cpp" />
+    <ClCompile Include="Game Objects\CObjectFactory.cpp" />
+    <ClCompile Include="Game Objects\CObjectManager.cpp" />
+    <ClCompile Include="Game Objects\CParticleTrigger.cpp" />
+    <ClCompile Include="Game Objects\CPickUps.cpp" />
+    <ClCompile Include="Game Objects\CPlayer.cpp" />
+    <ClCompile Include="Game Objects\CSceneObject.cpp" />
+    <ClCompile Include="Game Objects\CSpawner.cpp" />
+    <ClCompile Include="Game Objects\CSplit.cpp" />
+    <ClCompile Include="Game Objects\CTrigger.cpp" />
+    <ClCompile Include="Game Objects\Enemy\CAssaulter.cpp" />
+    <ClCompile Include="Game Objects\Enemy\CEnemy.cpp" />
+    <ClCompile Include="Game Objects\Enemy\CHelios.cpp" />
+    <ClCompile Include="Game Objects\Enemy\CStriker.cpp" />
+    <ClCompile Include="Game Objects\Enemy\CUltimus.cpp" />
+    <ClCompile Include="Game Objects\layoutImporter.cpp" />
+    <ClCompile Include="Game Objects\motionImporter.cpp" />
+    <ClCompile Include="Game Objects\Scene\CFlag.cpp" />
+    <ClCompile Include="Game Objects\Scene\CGround.cpp" />
+    <ClCompile Include="Game Objects\Scene\CJumpPad.cpp" />
+    <ClCompile Include="Game Objects\Scene\CPlatform.cpp" />
+    <ClCompile Include="Game Objects\Scene\CWall.cpp" />
+    <ClCompile Include="Game Objects\Tests\CBoxTest.cpp" />
+    <ClCompile Include="Game Objects\Tests\CSphereTest.cpp" />
+    <ClCompile Include="Game Objects\Weapon States\CFlamethrowerState.cpp" />
+    <ClCompile Include="Game Objects\Weapon States\CLightningGunState.cpp" />
+    <ClCompile Include="Game Objects\Weapon States\CMachineGunState.cpp" />
+    <ClCompile Include="Game Objects\Weapon States\CRocketState.cpp" />
+    <ClCompile Include="Game Objects\Weapon States\CShotgunState.cpp" />
+    <ClCompile Include="Input\CInput.cpp" />
+    <ClCompile Include="LuaEngine\CLuaEngine.cpp" />
+    <ClCompile Include="Mesh\animation.cpp" />
+    <ClCompile Include="Mesh\CMesh.cpp" />
+    <ClCompile Include="Mesh\CModel.cpp" />
+    <ClCompile Include="Mesh\CModelManager.cpp" />
+    <ClCompile Include="Mesh\modelImporter.cpp" />
+    <ClCompile Include="Rendering\CDirect3D.cpp" />
+    <ClCompile Include="Rendering\CFrame.cpp" />
+    <ClCompile Include="Rendering\CRenderContext.cpp" />
+    <ClCompile Include="Rendering\CRenderContextManager.cpp" />
+    <ClCompile Include="Rendering\CRenderer.cpp" />
+    <ClCompile Include="Rendering\CRenderSet.cpp" />
+    <ClCompile Include="Rendering\CRenderSetSorted.cpp" />
+    <ClCompile Include="Rendering\CRenderShape.cpp" />
+    <ClCompile Include="Rendering\CRenderStatic.cpp" />
+    <ClCompile Include="Rendering\CShaderManager.cpp" />
+    <ClCompile Include="Rendering\CTextureManager.cpp" />
+    <ClCompile Include="Rendering\Vertex.cpp" />
+    <ClCompile Include="Sound\WwiseManager.cpp" />
+    <ClCompile Include="Sound\WWise\SoundIO\AkDefaultIOHookBlocking.cpp" />
+    <ClCompile Include="Sound\WWise\SoundIO\AkDefaultIOHookDeferred.cpp" />
+    <ClCompile Include="Sound\WWise\SoundIO\AkDefaultLowLevelIODispatcher.cpp" />
+    <ClCompile Include="Sound\WWise\SoundIO\AkFileLocationBase.cpp" />
+    <ClCompile Include="Sound\WWise\SoundIO\AkFilePackage.cpp" />
+    <ClCompile Include="Sound\WWise\SoundIO\AkFilePackageLUT.cpp" />
+    <ClCompile Include="Sound\WWise\SoundIO\AkSoundEngineDLL.cpp" />
+    <ClCompile Include="Sound\WWise\SoundIO\AlignedPtr.cpp" />
+    <ClCompile Include="Spacial Tree\CBVH.cpp" />
+    <ClCompile Include="Spacial Tree\CHGrid.cpp" />
+    <ClCompile Include="States\CBeginningState.cpp" />
+    <ClCompile Include="States\CCharacterSelectionState.cpp" />
+    <ClCompile Include="States\CControlOptionState.cpp" />
+    <ClCompile Include="States\CCreditState.cpp" />
+    <ClCompile Include="States\CGameOverState.cpp" />
+    <ClCompile Include="States\CGameplayOptionState.cpp" />
+    <ClCompile Include="States\CGameState.cpp" />
+    <ClCompile Include="States\CHighScoreState.cpp" />
+    <ClCompile Include="States\CHowToState.cpp" />
+    <ClCompile Include="States\CIntroState.cpp" />
+    <ClCompile Include="States\CLoadState.cpp" />
+    <ClCompile Include="States\CMainMenuState.cpp" />
+    <ClCompile Include="States\COptionState.cpp" />
+    <ClCompile Include="States\CPauseState.cpp" />
+    <ClCompile Include="States\CSoundOptionState.cpp" />
+    <ClCompile Include="States\CStateMachine.cpp" />
+    <ClCompile Include="States\CStatsState.cpp" />
+    <ClCompile Include="States\CVideoOptionState.cpp" />
+    <ClCompile Include="States\CWinState.cpp" />
+    <ClCompile Include="TinyXML\tinystr.cpp" />
+    <ClCompile Include="TinyXML\tinyxml.cpp" />
+    <ClCompile Include="TinyXML\tinyxmlerror.cpp" />
+    <ClCompile Include="TinyXML\tinyxmlparser.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AI System\CAIStateMachine.h" />
+    <ClInclude Include="AI System\CState.h" />
+    <ClInclude Include="Camera\Camera.h" />
+    <ClInclude Include="Collision\CAABB.h" />
+    <ClInclude Include="Collision\CBaseBV.h" />
+    <ClInclude Include="Collision\CCapsule.h" />
+    <ClInclude Include="Collision\CCollisionResponse.h" />
+    <ClInclude Include="Collision\CCollisionTests.h" />
+    <ClInclude Include="Collision\COBB.h" />
+    <ClInclude Include="Collision\CollisionObject.h" />
+    <ClInclude Include="Collision\CSphere.h" />
+    <ClInclude Include="Core\CConfigLoader.h" />
+    <ClInclude Include="Core\CGame.h" />
+    <ClInclude Include="Core\Util.h" />
+    <ClInclude Include="Debug System\DebugSystem.h" />
+    <ClInclude Include="Event System\CEvent.h" />
+    <ClInclude Include="Event System\CEventSystem.h" />
+    <ClInclude Include="Event System\IListener.h" />
+    <ClInclude Include="Font\CBitMapFont.h" />
+    <ClInclude Include="FX\CAttribAccelbyLife.h" />
+    <ClInclude Include="FX\CAttribBox.h" />
+    <ClInclude Include="FX\CAttribColorByLife.h" />
+    <ClInclude Include="FX\CAttribEmitterInitLoc.h" />
+    <ClInclude Include="FX\CAttribInitAcc.h" />
+    <ClInclude Include="FX\CAttribInitRot.h" />
+    <ClInclude Include="FX\CAttribInitRotRate.h" />
+    <ClInclude Include="FX\CAttribInitVel.h" />
+    <ClInclude Include="FX\CAttribLifetime.h" />
+    <ClInclude Include="FX\CAttribLine.h" />
+    <ClInclude Include="FX\CAttribOrbit.h" />
+    <ClInclude Include="FX\CAttribRotbyLife.h" />
+    <ClInclude Include="FX\CAttribSize.h" />
+    <ClInclude Include="FX\CAttribSizeByLife.h" />
+    <ClInclude Include="FX\CAttribSpawn.h" />
+    <ClInclude Include="FX\CAttribSphere.h" />
+    <ClInclude Include="FX\CAttribVelbyLife.h" />
+    <ClInclude Include="FX\CBaseEmitterAttribute.h" />
+    <ClInclude Include="FX\CEffect.h" />
+    <ClInclude Include="FX\CEmitter.h" />
+    <ClInclude Include="FX\CFXManager.h" />
+    <ClInclude Include="FX\CParticleEffect.h" />
+    <ClInclude Include="FX\CParticleManager.h" />
+    <ClInclude Include="FX\Helpers.h" />
+    <ClInclude Include="Game Objects\Barron.h" />
+    <ClInclude Include="Game Objects\Bullet\CChargedLaser.h" />
+    <ClInclude Include="Game Objects\Bullet\CFizzle.h" />
+    <ClInclude Include="Game Objects\Bullet\CFlamethrowerBullet.h" />
+    <ClInclude Include="Game Objects\Bullet\CLaserBullet.h" />
+    <ClInclude Include="Game Objects\Bullet\CLightningBullet.h" />
+    <ClInclude Include="Game Objects\Bullet\CMachineGunBullet.h" />
+    <ClInclude Include="Game Objects\Bullet\CRocketBullet.h" />
+    <ClInclude Include="Game Objects\Bullet\CShotgunBullet.h" />
+    <ClInclude Include="Game Objects\Bullet\CSmartLaserBullet.h" />
+    <ClInclude Include="Game Objects\CAudioTrigger.h" />
+    <ClInclude Include="Game Objects\CBarrel.h" />
+    <ClInclude Include="Game Objects\CBase.h" />
+    <ClInclude Include="Game Objects\CButtonGui.h" />
+    <ClInclude Include="Game Objects\CCharacter.h" />
+    <ClInclude Include="Game Objects\CClaire.h" />
+    <ClInclude Include="Game Objects\CCrate.h" />
+    <ClInclude Include="Game Objects\CDebris.h" />
+    <ClInclude Include="Game Objects\CExplosion.h" />
+    <ClInclude Include="Game Objects\CGoal.h" />
+    <ClInclude Include="Game Objects\CGravWell.h" />
+    <ClInclude Include="Game Objects\CGui.h" />
+    <ClInclude Include="Game Objects\CHUD.h" />
+    <ClInclude Include="Game Objects\CMerge.h" />
+    <ClInclude Include="Game Objects\CMotion.h" />
+    <ClInclude Include="Game Objects\CMotionFactory.h" />
+    <ClInclude Include="Game Objects\CMotorcycle.h" />
+    <ClInclude Include="Game Objects\CObjectFactory.h" />
+    <ClInclude Include="Game Objects\CObjectFactory.hpp" />
+    <ClInclude Include="Game Objects\CObjectManager.h" />
+    <ClInclude Include="Game Objects\CParticleTrigger.h" />
+    <ClInclude Include="Game Objects\CPickUps.h" />
+    <ClInclude Include="Game Objects\CPlayer.h" />
+    <ClInclude Include="Game Objects\CSceneObject.h" />
+    <ClInclude Include="Game Objects\CSpawner.h" />
+    <ClInclude Include="Game Objects\CSplit.h" />
+    <ClInclude Include="Game Objects\CTrigger.h" />
+    <ClInclude Include="Game Objects\Enemy\CAssaulter.h" />
+    <ClInclude Include="Game Objects\Enemy\CEnemy.h" />
+    <ClInclude Include="Game Objects\Enemy\CHelios.h" />
+    <ClInclude Include="Game Objects\Enemy\CStriker.h" />
+    <ClInclude Include="Game Objects\Enemy\CUltimus.h" />
+    <ClInclude Include="Game Objects\IBaseInterface.h" />
+    <ClInclude Include="Game Objects\layoutImporter.h" />
+    <ClInclude Include="Game Objects\motionImporter.h" />
+    <ClInclude Include="Game Objects\Scene\CFlag.h" />
+    <ClInclude Include="Game Objects\Scene\CGround.h" />
+    <ClInclude Include="Game Objects\Scene\CJumpPad.h" />
+    <ClInclude Include="Game Objects\Scene\CPlatform.h" />
+    <ClInclude Include="Game Objects\Scene\CWall.h" />
+    <ClInclude Include="Game Objects\Tests\CBoxTest.h" />
+    <ClInclude Include="Game Objects\Tests\CSphereTest.h" />
+    <ClInclude Include="Game Objects\Weapon States\CFlamethrowerState.h" />
+    <ClInclude Include="Game Objects\Weapon States\CLightningGunState.h" />
+    <ClInclude Include="Game Objects\Weapon States\CMachineGunState.h" />
+    <ClInclude Include="Game Objects\Weapon States\CRocketState.h" />
+    <ClInclude Include="Game Objects\Weapon States\CShotgunState.h" />
+    <ClInclude Include="Game Objects\Weapon States\IBaseWeaponState.h" />
+    <ClInclude Include="Input\CInput.h" />
+    <ClInclude Include="LuaEngine\CLuaEngine.h" />
+    <ClInclude Include="Mesh\animation.h" />
+    <ClInclude Include="Mesh\CMesh.h" />
+    <ClInclude Include="Mesh\CModel.h" />
+    <ClInclude Include="Mesh\CModelManager.h" />
+    <ClInclude Include="Mesh\modelImporter.h" />
+    <ClInclude Include="Rendering\CDirect3D.h" />
+    <ClInclude Include="Rendering\CFrame.h" />
+    <ClInclude Include="Rendering\CRenderContext.h" />
+    <ClInclude Include="Rendering\CRenderContextManager.h" />
+    <ClInclude Include="Rendering\CRenderer.h" />
+    <ClInclude Include="Rendering\CRenderNode.h" />
+    <ClInclude Include="Rendering\CRenderSet.h" />
+    <ClInclude Include="Rendering\CRenderSetSorted.h" />
+    <ClInclude Include="Rendering\CRenderShape.h" />
+    <ClInclude Include="Rendering\CRenderStatic.h" />
+    <ClInclude Include="Rendering\CShaderManager.h" />
+    <ClInclude Include="Rendering\CTextureManager.h" />
+    <ClInclude Include="Rendering\Vertex.h" />
+    <ClInclude Include="Resources\Sound\Wwise_IDs.h" />
+    <ClInclude Include="Sound\WwiseManager.h" />
+    <ClInclude Include="Sound\WWise\samples\Wwise_IDs.h" />
+    <ClInclude Include="Sound\WWise\SoundIO\AkCommunication.h" />
+    <ClInclude Include="Sound\WWise\SoundIO\akdefaultiohookblocking.h" />
+    <ClInclude Include="Sound\WWise\SoundIO\AkDefaultIOHookDeferred.h" />
+    <ClInclude Include="Sound\WWise\SoundIO\AkDefaultLowLevelIODispatcher.h" />
+    <ClInclude Include="Sound\WWise\SoundIO\AkFileHelpers.h" />
+    <ClInclude Include="Sound\WWise\SoundIO\AkFileLocationBase.h" />
+    <ClInclude Include="Sound\WWise\SoundIO\AkFilePackage.h" />
+    <ClInclude Include="Sound\WWise\SoundIO\AkFilePackageLowLevelIO.h" />
+    <ClInclude Include="Sound\WWise\SoundIO\akfilepackagelowlevelioblocking.h" />
+    <ClInclude Include="Sound\WWise\SoundIO\AkFilePackageLowLevelIODeferred.h" />
+    <ClInclude Include="Sound\WWise\SoundIO\AkFilePackageLUT.h" />
+    <ClInclude Include="Sound\WWise\SoundIO\AkSoundEngineDLL.h" />
+    <ClInclude Include="Sound\WWise\SoundIO\AkSoundEngineExports.h" />
+    <ClInclude Include="Sound\WWise\SoundIO\AlignedPtr.h" />
+    <ClInclude Include="Spacial Tree\CBVH.h" />
+    <ClInclude Include="Spacial Tree\CHGrid.h" />
+    <ClInclude Include="States\CBeginningState.h" />
+    <ClInclude Include="States\CCharacterSelectionState.h" />
+    <ClInclude Include="States\CControlOptionState.h" />
+    <ClInclude Include="States\CCreditState.h" />
+    <ClInclude Include="States\CGameOverState.h" />
+    <ClInclude Include="States\CGameplayOptionState.h" />
+    <ClInclude Include="States\CGameState.h" />
+    <ClInclude Include="States\CHighScoreState.h" />
+    <ClInclude Include="States\CHowToState.h" />
+    <ClInclude Include="States\CIntroState.h" />
+    <ClInclude Include="States\CLoadState.h" />
+    <ClInclude Include="States\CMainMenuState.h" />
+    <ClInclude Include="States\COptionState.h" />
+    <ClInclude Include="States\CPauseState.h" />
+    <ClInclude Include="States\CSoundOptionState.h" />
+    <ClInclude Include="States\CStateMachine.h" />
+    <ClInclude Include="States\CStatsState.h" />
+    <ClInclude Include="States\CVideoOptionState.h" />
+    <ClInclude Include="States\CWinState.h" />
+    <ClInclude Include="States\IGameState.h" />
+    <ClInclude Include="TinyXML\tinystr.h" />
+    <ClInclude Include="TinyXML\tinyxml.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Font\TestFont2.bmf" />
+    <None Include="Font\TestFont3.bmf" />
+    <None Include="LuaEngine\test.lua" />
+    <None Include="Resources\exporterTest\ChesseyRodriguezShape.NNanim" />
+    <None Include="Resources\exporterTest\ChesseyRodriguezShape.NNmesh" />
+    <None Include="Resources\exporterTest\ChesseyRodriguezShape.NNskin" />
+    <None Include="Sound\WWise\samples\BankFiles\Init.bnk" />
+    <None Include="Sound\WWise\samples\BankFiles\SoundBank.bnk" />
+    <None Include="Sound\WWise\SoundIO\AkFilePackageLowLevelIO.inl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Font\TestFont2.png" />
+    <Image Include="Font\TestFont3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Resources\Shaders\Depth.fx">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\Flat.fx">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\Gamma.vsh">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\HUDParticle.fx">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\Particle.fx">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\ParticleBloom.fx">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\ShadowMap.fx">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\SkinnedTexturedLit.fx">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\TexturedLit.fx">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\TexturedLitUVAtlas.fx">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\TexturedLitUVScroll.fx">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\TexturedWVP.fx">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\TransSkinnedTexturedLit.fx">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </FxCompile>
+    <FxCompile Include="Resources\Shaders\TransTexturedLit.fx">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Sound\WWise\samples\BankFiles\Init.txt" />
+    <Text Include="Sound\WWise\samples\BankFiles\SoundBank.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="Sound\WWise\samples\BankFiles\SoundbanksInfo.xml" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
