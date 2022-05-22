@@ -45,15 +45,15 @@
     <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
     <IntDir>$(Configuration)\</IntDir>
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>$(ProjectDir)Ext\D3DX\Include;$(ProjectDir)Ext\Visual Leak Detector\include;$(ProjectDir)Ext\Lua\5.1\include;$(IncludePath)</IncludePath>
-    <LibraryPath>$(ProjectDir)Ext\D3DX\Lib\x86;$(ProjectDir)Ext\Visual Leak Detector\lib\Win32;$(ProjectDir)Ext\Lua\5.1\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(ProjectDir)Ext\D3DX\include;$(ProjectDir)Ext\Visual Leak Detector\include;$(ProjectDir)Ext\Lua\5.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(ProjectDir)Ext\D3DX\lib\x86;$(ProjectDir)Ext\Visual Leak Detector\lib\Win32;$(ProjectDir)Ext\Lua\5.1\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
     <IntDir>$(Configuration)\</IntDir>
     <LinkIncremental>false</LinkIncremental>
-    <IncludePath>$(ProjectDir)Ext\D3DX\Include;$(ProjectDir)Ext\Visual Leak Detector\include;$(ProjectDir)Ext\Lua\5.1\include;$(IncludePath)</IncludePath>
-    <LibraryPath>$(ProjectDir)Ext\D3DX\Lib\x86;$(ProjectDir)Ext\Visual Leak Detector\lib\Win32;$(ProjectDir)Ext\Lua\5.1\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(ProjectDir)Ext\D3DX\include;$(ProjectDir)Ext\Visual Leak Detector\include;$(ProjectDir)Ext\Lua\5.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(ProjectDir)Ext\D3DX\lib\x86;$(ProjectDir)Ext\Visual Leak Detector\lib\Win32;$(ProjectDir)Ext\Lua\5.1\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Label="Vcpkg">
     <VcpkgEnabled>false</VcpkgEnabled>

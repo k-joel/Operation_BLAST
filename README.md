@@ -10,6 +10,47 @@ Video
 ---
 [![Gameplay](https://img.youtube.com/vi/AHEOiAC5bNo/0.jpg)](https://www.youtube.com/watch?v=AHEOiAC5bNo)
 
+Minimum Requirements
+---
+Keyboard  
+256mb Video Card  
+1gb RAM  
+2.0ghz CPU processor  
+Sound Card  
+
+Controls
+---
+**Keyboard**
+|Key|Action|
+|:---|:---|
+|D|Advance, Aim Right|
+|A|Retreat, Aim Left|
+|W|Aim Up|
+|S|Aim Down in Air, Prone on Ground|
+|E|Dash (In Direction Your Looking)|
+|Q|Dash (In Direction Your Looking)|
+|Space|Jump|
+|S + Space|Drop through Platform|
+|J|Fire Normal|
+|K|Fire Alternate|
+|L|Fire Ultimate|
+|P|Pause|
+|Esc|Pause, Back in Menus|
+|Enter|Advance in Menus|
+
+**Gamepad**  
+|Key|Action|
+|:---|:---|
+|Left Stick|Move, Aim|
+|Aim Down|Prone on Ground|
+|R. Bumper|Dash (In Direction Your Looking)|
+|L. Bumper|Dash (In Direction Your Looking)|
+|A|Jump, Advance in Menus|
+|Aim D. + A|Drop through Platform|
+|X|Fire Normal|
+|B|Fire Alternate, Back in Menus|
+|Y|Fire Ultimate|
+|Start|Pause|
 
 Credits
 ---
@@ -40,3 +81,9 @@ Hao Zhu Chen
 
 **Artist**  
 Michael Herner
+
+**Internal Producer**  
+Bryan Solero
+
+**Internal Producer**  
+Dominic Santoro
